@@ -1,0 +1,2 @@
+"TABLE_NAME","TABLE_TYPE","BUILD_TYPE","GLOSS","UIMA_TYPENAME","UIMA_TYPEDESC","UIMA_SUPERTYPE","DISPLAY_NAME","SORTBY"
+"DATA","SurfaceformList","","MidGloss","com.menRISA.Extreme_Weather_Disasters","Extreme Weather Disasters","uima.tt.DictionaryEntryAnnotation","Extreme Weather Disasters","COL1,COL2"
