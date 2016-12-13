@@ -1,0 +1,7 @@
+*.jar
+
+Documents/*
+
+.project
+
+.settings/*
