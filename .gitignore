@@ -5,3 +5,7 @@ Documents/*
 .project
 
 .settings/*
+
+!Resources/Character Rules*
+!Resources/Dictionaries*
+!Resources/Parsing Rules*
