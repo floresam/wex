@@ -1,0 +1,2 @@
+"TABLE_NAME","TABLE_TYPE","BUILD_TYPE","GLOSS","UIMA_TYPENAME","UIMA_TYPEDESC","UIMA_SUPERTYPE","DISPLAY_NAME","SORTBY"
+"DATA","SurfaceformList","","MidGloss","com.menRISA_WSI_Project.Hillslope_Procesess","Hillslope Procesess","uima.tt.DictionaryEntryAnnotation","Hillslope Procesess","COL1,COL2"

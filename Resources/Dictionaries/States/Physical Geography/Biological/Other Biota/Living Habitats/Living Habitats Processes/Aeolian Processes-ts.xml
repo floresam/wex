@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>Aeolian Processes-ts</name>
+  <description>Aeolian Processes</description>
+  <version></version>
+  <vendor></vendor>
+  <types>
+    <typeDescription>
+      <name>com.menRISA_WSI_Project.Aeolian_Processes</name>
+      <description>Aeolian Processes</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

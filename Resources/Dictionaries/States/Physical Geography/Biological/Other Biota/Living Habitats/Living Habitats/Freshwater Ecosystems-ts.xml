@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>Freshwater Ecosystems-ts</name>
+  <description>Freshwater Ecosystems</description>
+  <version></version>
+  <vendor></vendor>
+  <types>
+    <typeDescription>
+      <name>com.menRISA_WSI_Project.Freshwater_Ecosystems</name>
+      <description>Freshwater Ecosystems</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

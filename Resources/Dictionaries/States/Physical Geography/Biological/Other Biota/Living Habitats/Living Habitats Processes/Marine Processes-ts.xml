@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>Marine Processes-ts</name>
+  <description>Marine Processes</description>
+  <version></version>
+  <vendor></vendor>
+  <types>
+    <typeDescription>
+      <name>com.menRISA_WSI_Project.Marine_Processes</name>
+      <description>Marine Processes</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

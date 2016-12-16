@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>threatened_species-ts</name>
+  <description>threatened_species</description>
+  <version></version>
+  <vendor></vendor>
+  <types>
+    <typeDescription>
+      <name>com.menRISA_WSI_Project.Threatened_species</name>
+      <description>threatened_species</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>latinName</name>
+          <description></description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        </features>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

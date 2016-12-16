@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>Hillslope Procesess-ts</name>
+  <description>Hillslope Procesess</description>
+  <version></version>
+  <vendor></vendor>
+  <types>
+    <typeDescription>
+      <name>com.menRISA_WSI_Project.Hillslope_Procesess</name>
+      <description>Hillslope Procesess</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>Watershed Inputs-ts</name>
+  <description>Watershed Inputs</description>
+  <version></version>
+  <vendor></vendor>
+  <types>
+    <typeDescription>
+      <name>com.menRISA_WSI_Project.Watershed_Inputs</name>
+      <description>Watershed Inputs</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

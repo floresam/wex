@@ -1,0 +1,746 @@
+"COL1","COL2","COL3"
+"Aluminium diacetate	1101","N","Al(CH3CO2)2OH, basic aluminium acetate"
+"Aluminium triacetate	1101","N","Al(CH3CO2)3"
+"Aluminium antimonide	1101","N","AlSb"
+"Aluminium arsenate	1101","N","AlAsO4.8H2O"
+"Aluminium arsenide	1101","N","AlAs"
+"Aluminium boride	1101","N","AlB2"
+"Aluminium bromide	1101","N","AlBr3"
+"Aluminium carbide	1101","N","Al4C3"
+"Aluminium iodide	1101","N","AlI3"
+"Aluminium nitride	1101","N","AlN"
+"Aluminium oxide	1101","N","Al2O3"
+"Aluminium phosphide	1101","N","AlP"
+"Aluminium chloride	1101","N","AlCl3"
+"Aluminium fluoride	1101","N","AlF3"
+"Aluminium hydroxide	1101","N","Al(OH)3"
+"Aluminium nitrate	1101","N","Al(NO3)3"
+"Aluminium sulfide	1101","N","Al2S3"
+"Aluminium sulfacetate	1101","N","Al2SO4(CH3CO2)4"
+"Aluminium sulfate	1101","N","Al2(SO4)3"
+"Aluminium potassium sulfate	1101","N","AlK(SO4)2 "
+"Ammonia	1101","N","NH3"
+"Ammonium azide	1101","N","NH4N3"
+"Ammonium bicarbonate	1101","N","NH4HCO3"
+"Ammonium chromate	1101","N","(NH4)2CrO4"
+"Ammonium cerium(IV) nitrate	1101","N","(NH4)2Ce(NO3)6"
+"Ammonium chloride	1101","N","NH4Cl"
+"Ammonium chlorate	1101","N","NH4ClO3"
+"Ammonium cyanide	1101","N","NH4CN"
+"Ammonium dichromate	1101","N","(NH4)2Cr2O7"
+"Ammonium hydroxide	1101","N","NH4OH"
+"Ammonium hexachloroplatinate	1101","N","(NH4)2(PtCl6)"
+"Ammonium nitrate	1101","N","NH4NO3"
+"Ammonium sulfamate	1101","N","H6N2O3S"
+"Ammonium sulfide	1101","N","(NH4)2S"
+"Ammonium sulfite	1101","N","(NH4)2SO3"
+"Ammonium sulfate	1101","N","(NH4)2SO4"
+"Ammonium persulfate	1101","N","(NH4)2S2O8"
+"Ammonium perchlorate	1101","N","NH4ClO4"
+"Ammonium tetrathiocyanatodiamminechromate(III)	1101","N","NH4[Cr(SCN)4(NH3)2]"
+"Ammonium thiocyanate	1101","N","NH4SCN"
+"Antimony hydride	1101","N","SbH3"
+"Antimony pentachloride	1101","N","SbCl5"
+"Antimony pentafluoride	1101","N","SbF5"
+"Antimony trioxide	1101","N","Sb2O3"
+"Arsine	1101","N","AsH3"
+"Arsenic trioxide (Arsenic(III) oxide)	1101","N","As2O3"
+"Arsenous acid	1101","N","As(OH)3"
+"Barium azide	1101","N","Ba(N3)2"
+"Barium carbonate	1101","N","BaCO3"
+"Barium chlorate	1101","N","Ba(ClO3)2"
+"Barium chloride	1101","N","BaCl2"
+"Barium chromate	1101","N","BaCrO4"
+"Barium ferrate	1101","N","BaFeO4"
+"Barium ferrite	1101","N","BaFe2O4"
+"Barium fluoride	1101","N","BaF2"
+"Barium hydroxide	1101","N","Ba(OH)2"
+"Barium iodide	1101","N","BaI2"
+"Barium nitrate	1101","N","Ba(NO3)2"
+"Barium oxalate	1101","N","Ba(C2O4)"
+"Barium oxide	1101","N","BaO"
+"Barium peroxide	1101","N","BaO2"
+"Barium sulfate	1101","N","BaSO4"
+"Barium sulfide	1101","N","BaS"
+"Barium titanate	1101","N","BaTiO3"
+"Beryllium borohydride	1101","N","Be(BH4)2"
+"Beryllium bromide	1101","N","BeBr2"
+"Beryllium carbonate	1101","N","BeCO3"
+"Beryllium chloride	1101","N","BeCl2"
+"Beryllium fluoride	1101","N","BeF2"
+"Beryllium hydride	1101","N","BeH2"
+"Beryllium hydroxide	1101","N","Be(OH)2"
+"Beryllium iodide	1101","N","BeI2"
+"Beryllium nitrate	1101","N","Be(NO3)2"
+"Beryllium nitride	1101","N","Be3N2"
+"Beryllium oxide	1101","N","BeO"
+"Beryllium sulfate	1101","N","BeSO4"
+"Beryllium sulfite	1101","N","BeSO3"
+"Beryllium telluride	1101","N","BeTe"
+"Bismuth(III) oxide	1101","N","Bi2O3"
+"Bismuth oxychloride	1101","N","BiOCl"
+"Bismuth(III) telluride	1101","N","Bi2Te3"
+"Borane	1101","N","diborane: B2H6, pentaborane: B5H9 decaborane: B10H14"
+"Borax	1101","N","Na2B4O7·10H2O"
+"Boric acid	1101","N","H3BO3"
+"Boron carbide	1101","N","B4C"
+"Boron nitride	1101","N","BN"
+"Boron suboxide	1101","N","B6O"
+"Boron trichloride	1101","N","BCl3"
+"Boron trifluoride	1101","N","BF3"
+"Boron oxide	1101","N","B2O3"
+"Bromine monochloride	1101","N","BrCl"
+"Bromine pentafluoride	1101","N","BrF5"
+"Bromine trifluoride	1101","N","BrF3"
+"Cacodylic acid	1101","N","(CH3)2As(O)OH"
+"Cadmium arsenide	1101","N","Cd3As2"
+"Cadmium bromide	1101","N","CdBr2"
+"Cadmium chloride	1101","N","CdCl2"
+"Cadmium fluoride	1101","N","CdF2"
+"Cadmium iodide	1101","N","CdI2"
+"Cadmium nitrate	1101","N","Cd(NO3)2"
+"Cadmium oxide	1101","N","CdO"
+"Cadmium selenide	1101","N","CdSe"
+"Cadmium sulfate	1101","N","CdSO4"
+"Cadmium sulfide	1101","N","CdS"
+"Cadmium telluride	1101","N","CdTe"
+"Caesium bicarbonate	1101","N","CsHCO3"
+"Caesium carbonate	1101","N","Cs2CO3"
+"Caesium chloride	1101","N","CsCl"
+"Caesium chromate	1101","N","Cs2CrO4"
+"Caesium fluoride	1101","N","CsF"
+"Caesium hydride	1101","N","CsH"
+"Calcium carbide	1101","N","CaC2"
+"Calcium chlorate	1101","N","Ca(ClO3)2"
+"Calcium chloride	1101","N","CaCl2"
+"Calcium chromate	1101","N","CaCrO4"
+"Calcium cyanamide	1101","N","CaCN2"
+"Calcium fluoride	1101","N","CaF2"
+"Calcium hydride	1101","N","CaH2"
+"Calcium hydroxide	1101","N","Ca(OH)2"
+"Calcium oxalate	1101","N","Ca(C2O4)"
+"Calcium oxychloride	1101","N","CaOCl2"
+"Calcium perchlorate	1101","N","Ca(ClO4)2"
+"Calcium sulfate (gypsum)	1101","N","CaSO4"
+"Carbon dioxide	1101","N","CO2"
+"Carbon disulfide	1101","N","CS2"
+"Carbon monoxide	1101","N","CO"
+"Carbon tetrabromide	1101","N","CBr4"
+"Carbon tetrachloride	1101","N","CCl4"
+"Carbon tetraiodide	1101","N","CI4"
+"Carbonic acid	1101","N","H2CO3"
+"Carbonyl chloride	1101","N","COCl2"
+"Carbonyl fluoride	1101","N","COF2"
+"Carbonyl sulfide	1101","N","COS"
+"Carboplatin	1101","N","C6H12N2O4Pt"
+"carborundum	1101","N","SiC"
+"Cerium aluminium	1101","N","CeAl"
+"Cerium cadmium	1101","N","CeCd"
+"Cerium magnesium	1101","N","CeMg"
+"Cerium mercury	1101","N","CeHg"
+"Cerium silver	1101","N","CeAg"
+"Cerium thallium	1101","N","CeTl"
+"Cerium zinc	1101","N","CeZn"
+"Cerium(III) bromide	1101","N","CeBr3"
+"Cerium(III) chloride	1101","N","CeCl3"
+"Cerium(IV) sulfate	1101","N","Ce(SO4)2"
+"Chloric acid	1101","N","HClO3"
+"Chlorine dioxide	1101","N","ClO2"
+"Chlorine monoxide	1101","N","ClO"
+"Chlorine tetroxide (the peroxide)	1101","N","O3ClOOClO3"
+"Chlorine trifluoride	1101","N","ClF3"
+"Chlorine trioxide	1101","N","ClO3"
+"Chlorine	1101","N","Cl2"
+"Chloroplatinic acid	1101","N","H2PtCl6"
+"Chrome-alum	1101","N","K2SO4Cr2(SO4)3·24H2O"
+"Chromic acid	1101","N","CrO3"
+"Chromium trioxide (Chromic acid)	1101","N","CrO3"
+"Chromium(II) chloride	1101","N","CrCl2"
+"Chromium(II) sulfate	1101","N","CrSO4"
+"Chromium(III) chloride	1101","N","CrCl3"
+"Chromium(III) oxide	1101","N","Cr2O3"
+"Chromium(III) sulfate	1101","N","Cr2(SO4)3"
+"Chromium(IV) oxide	1101","N","CrO2"
+"Chromyl chloride	1101","N","CrO2Cl2"
+"Chromyl fluoride	1101","N","CrO2F2"
+"Cisplatin (cis-platinum(II) chloride diamine	1101","N","PtCl2(NH3)2"
+"Cobalt(II) bromide	1101","N","CoBr2"
+"Cobalt(II) carbonate	1101","N","CoCO3"
+"Cobalt(II) chloride	1101","N","CoCl2"
+"Cobalt(III) fluoride	1101","N","CoF3"
+"Cobalt(II) nitrate	1101","N","Co(NO3)2"
+"Cobalt(II) sulfate	1101","N","CoSO4"
+"Columbite	1101","N","Fe2+Nb2O6"
+"Copper(I) chloride	1101","N","CuCl"
+"Copper(I) oxide	1101","N","Cu2O"
+"Copper oxychloride	1101","N","H3ClCu2O3[1]"
+"Copper(I) sulfide	1101","N","Cu2S"
+"Copper(II) azide	1101","N","Cu(N3)2"
+"Copper(II) carbonate	1101","N","CuCO3"
+"Copper(II) chloride	1101","N","CuCl2"
+"Copper(I) fluoride	1101","N","CuF"
+"Copper(II) hydroxide	1101","N","Cu(OH)2"
+"Copper(II) nitrate	1101","N","Cu(NO3)2"
+"Copper(II) oxide	1101","N","CuO"
+"Copper(II) sulfate	1101","N","CuSO4"
+"Copper(II) sulfide	1101","N","CuS"
+"Cyanogen bromide	1101","N","CNBr"
+"Cyanogen chloride	1101","N","CNCl"
+"Cyanogen iodide	1101","N","ICN"
+"Cyanogen	1101","N","(CN)2"
+"Cyanuric chloride	1101","N","C3Cl3N3"
+"Cyanogen thiocyanate	1101","N","CNSCN[2]"
+"Cyanogen selenocyanate	1101","N","CNSeCN[2]"
+"Cyanogen azide	1101","N","CNN3[2]"
+"Decaborane (Diborane)	1101","N","B10H14"
+"Diammonium dioxido(dioxo)molybdenum	1101","N","H8MoN2O4[3]"
+"Diammonium phosphate	1101","N","(NH4)2HPO4"
+"Diborane	1101","N","B2H6"
+"Dichlorine monoxide	1101","N","Cl2O"
+"Dichlorine dioxide	1101","N","Cl2O2"
+"Dichlorine trioxide	1101","N","Cl2O3"
+"Dichlorine tetroxide (chlorine perchlorate)	1101","N","ClOClO3"
+"Dichlorine hexoxide	1101","N","Cl2O6"
+"Dichlorine heptoxide	1101","N","Cl2O7"
+"Dichlorosilane	1101","N","SiH2Cl"
+"Dinitrogen pentoxide (nitronium nitrate)	1101","N","N2O5"
+"Dinitrogen tetroxide	1101","N","N2O4"
+"Disilane	1101","N","Si2H6"
+"Disulfur dichloride 	1101","N","S2Cl2"
+"Dysprosium(III) chloride	1101","N","DyCl3"
+"Dysprosium oxide	1101","N","Dy2O3"
+"Dysprosium titanate	1101","N","Dy2Ti2O7"
+"Erbium(III) chloride	1101","N","ErCl3"
+"Europium(III) chloride	1101","N","EuCl3"
+"Erbium-copper	1101","N","ErCu"
+"Erbium-gold	1101","N","ErAu"
+"Erbium-silver	1101","N","ErAg"
+"Erbium-iridium	1101","N","ErIr"
+"Gadolinium(III) chloride	1101","N","GdCl3"
+"Gadolinium(III) oxide	1101","N","Gd2O3"
+"Gallium antimonide	1101","N","GaSb"
+"Gallium arsenide	1101","N","GaAs"
+"Gallium(III) fluoride	1101","N","GaF3"
+"Gallium trichloride	1101","N","GaCl3"
+"Gallium nitride	1101","N","GaN"
+"Gallium phosphide	1101","N","GaP"
+"Gallium(III) sulfide	1101","N","Ga2S3"
+"Gallium(II) sulfide	1101","N","GaS"
+"Germane	1101","N","GeH4"
+"Digermane	1101","N","Ge2H6"
+"Germanium(II) fluoride	1101","N","GeF2"
+"Germanium(IV) fluoride	1101","N","GeF4"
+"Germanium(II) chloride	1101","N","GeCl2"
+"Germanium(IV) chloride	1101","N","GeCl4"
+"Germanium(II) bromide	1101","N","GeBr2"
+"Germanium(IV) bromide	1101","N","GeBr4"
+"Germanium(II) iodide	1101","N","GeI2"
+"Germanium(IV) iodide	1101","N","GeI4"
+"Germanium(II) oxide	1101","N","GeO"
+"Germanium(IV) oxide	1101","N","GeO2"
+"Germanium(II) sulfide	1101","N","GeS"
+"Germanium(IV) sulfide	1101","N","GeS2"
+"Germanium(II) selenide	1101","N","GeSe"
+"Germanium(IV) selenide	1101","N","GeSe2"
+"Germanium telluride	1101","N","GeTe"
+"Germanium(IV) nitride	1101","N","Ge3N4"
+"Gold(I) chloride	1101","N","AuCl"
+"Gold(III) chloride	1101","N","(AuCl3)2"
+"Gold(I,III) chloride	1101","N","Au4Cl8"
+"Gold(III) fluoride	1101","N","AuF3"
+"Gold(V) fluoride	1101","N","AuF5"
+"Gold(I) bromide	1101","N","AuBr"
+"Gold(III) bromide	1101","N","(AuBr3)2"
+"Gold(I) iodide	1101","N","AuI"
+"Gold(III) iodide	1101","N","AuI3"
+"Gold(I) hydride	1101","N","AuH"
+"Gold(III) oxide	1101","N","Au2O3"
+"Gold(I) sulfide	1101","N","Au2S"
+"Gold(III) sulfide	1101","N","Au2S3"
+"Gold(I) selenide	1101","N","Au2Se"
+"Gold(III) selenide	1101","N","Au2Se3"
+"Gold ditelluride	1101","N","AuTe2"
+"Hafnium carbide	1101","N","HfC"
+"Hafnium tetrafluoride	1101","N","HfF4"
+"Hafnium tetrachloride	1101","N","HfCl4"
+"Hexadecacarbonylhexarhodium	1101","N","Rh6(CO)16"
+"Hexafluorosilicic acid	1101","N","H2F6Si"
+"Hydrazine	1101","N","N2H4"
+"Hydrazoic acid	1101","N","HN3"
+"Hydroiodic acid	1101","N","HI"
+"Hydrogen bromide	1101","N","HBr"
+"Hydrogen chloride	1101","N","HCl"
+"Hydrogen cyanide	1101","N","HCN"
+"Hydrogen fluoride	1101","N","HF"
+"Hydrogen peroxide	1101","N","H2O2"
+"Hydrogen selenide	1101","N","H2Se"
+"Hydrogen sulfide	1101","N","H2S"
+"Hydrogen telluride	1101","N","H2Te"
+"Hydroxylamine	1101","N","NH2OH"
+"Hypobromous acid	1101","N","HBrO"
+"Hypochlorous acid	1101","N","HClO"
+"Hypophosphorous acid	1101","N","H3PO2"
+"Indium antimonide	1101","N","InSb"
+"Indium arsenide	1101","N","InAs"
+"Indium(III) chloride	1101","N","InCl3"
+"Indium nitride	1101","N","InN"
+"Indium phosphide	1101","N","InP"
+"Iodic acid	1101","N","HIO3"
+"Iodine heptafluoride	1101","N","IF7"
+"Iodine pentafluoride	1101","N","IF5"
+"Iodine monochloride	1101","N","ICl"
+"Iodine trichloride	1101","N","ICl3"
+"Iridium(IV) chloride	1101","N","IrCl4"
+"Iron(II) chloride	1101","N","FeCl2 including hydrate"
+"Iron(III) chloride	1101","N","FeCl3"
+"Iron ferrocyanide	1101","N","Fe7(CN)18"
+"Iron(II) oxalate	1101","N","FeC2O4"
+"Iron(III) oxalate	1101","N","C6Fe2O12"
+"Iron(II) oxide	1101","N","FeO"
+"Iron(III) nitrate	1101","N","Fe(NO3)3(H2O)9"
+"Iron(II,III) oxide	1101","N","Fe3O4"
+"Iron(III) oxide	1101","N","Fe2O3"
+"Iron(III) thiocyanate	1101","N","Fe(SCN)3"
+"Iron(III) fluoride	1101","N","FeF3"
+"Krypton difluoride	1101","N","KrF2"
+"Lanthanum carbonate	1101","N","La2(CO3)3"
+"Lanthanum magnesium	1101","N","LaMg"
+"Lanthanum aluminium	1101","N","LaAl"
+"Lanthanum zinc	1101","N","LaZn"
+"Lanthanum silver	1101","N","LaAg"
+"Lanthanum cadmium	1101","N","LaCd"
+"Lanthanum mercury	1101","N","LaHg"
+"Lanthanum tallium	1101","N","LaTl"
+"Lead(II) carbonate	1101","N","Pb(CO3)"
+"Lead(II) chloride	1101","N","PbCl2"
+"Lead(II) iodide	1101","N","PbI2"
+"Lead(II) nitrate	1101","N","Pb(NO3)2"
+"Lead hydrogen arsenate	1101","N","PbHAsO4"
+"Lead(II) oxide	1101","N","PbO"
+"Lead(IV) oxide	1101","N","PbO2"
+"Lead(II) phosphate	1101","N","Pb3(PO4)2"
+"Lead(II) sulfate	1101","N","Pb(SO4)"
+"Lead(II) selenide	1101","N","PbSe"
+"Lead styphnate	1101","N","C6HN3O8Pb"
+"Lead(II) sulfide	1101","N","PbS"
+"Lead(II) telluride	1101","N","PbTe"
+"Lead tetroxide	1101","N","Pb3O4[4]"
+"Lead zirconate titanate	1101","N","Pb[TixZr1x]O3"
+"Lithium aluminium hydride	1101","N","LiAlH4"
+"Lithium bromide	1101","N","LiBr"
+"Lithium borohydride	1101","N","LiBH4"
+"Lithium carbonate (Lithium salt)	1101","N","Li2CO3"
+"Lithium chloride	1101","N","LiCl"
+"Lithium hypochlorite	1101","N","LiClO"
+"Lithium chlorate	1101","N","LiClO3"
+"Lithium perchlorate	1101","N","LiClO4"
+"Lithium cobalt oxide	1101","N","LiCoO2"
+"Lithium oxide	1101","N","Li2O"
+"Lithium peroxide	1101","N","Li2O2"
+"Lithium hydride	1101","N","LiH"
+"Lithium hydroxide	1101","N","LiOH"
+"Lithium iodide	1101","N","LiI"
+"Lithium iron phosphate	1101","N","FeLiO4P"
+"Lithium nitrate	1101","N","LiNO3"
+"Lithium sulfide	1101","N","Li2S"
+"Lithium sulfite	1101","N","HLiO3S"
+"Lithium sulfate	1101","N","Li2SO4"
+"Lithium superoxide	1101","N","LiO2"
+"Magnesium antimonide	1101","N","MgSb"
+"Magnesium carbonate	1101","N","MgCO3"
+"Magnesium chloride	1101","N","MgCl2"
+"Magnesium oxide	1101","N","MgO"
+"Magnesium perchlorate	1101","N","Mg(ClO4)2"
+"Magnesium phosphate	1101","N","Mg3(PO4)2"
+"Magnesium sulfate	1101","N","MgSO4"
+"Manganese(IV) oxide (manganese dioxide)	1101","N","MnO2"
+"Manganese(II) sulfate monohydrate	1101","N","MnSO4.H2O"
+"Manganese(II) chloride	1101","N","MnCl2"
+"Manganese(III) chloride	1101","N","MnCl3"
+"Manganese(IV) fluoride	1101","N","MnF4"
+"Manganese(II) phosphate	1101","N","Mn3(PO4)2"
+"Mercury(I) chloride	1101","N","Hg2Cl2"
+"Mercury(II) chloride	1101","N","HgCl2"
+"Mercury fulminate	1101","N","Hg(ONC)2"
+"Mercury(II) selenide	1101","N","HgSe"
+"Mercury(I) sulfate	1101","N","Hg2SO4"
+"Mercury(II) sulfate	1101","N","HgSO4"
+"Mercury(II) sulfide	1101","N","HgS"
+"Mercury(II) telluride	1101","N","HgTe"
+"Mercury(II) thiocyanate	1101","N","Hg(SCN)2"
+"Metaphosphoric acid	1101","N","HPO3"
+"Molybdenum(II) bromide	1101","N","MoBr2"
+"Molybdenum(III) bromide	1101","N","MoBr3"
+"Molybdenum(IV) carbide	1101","N","MoC"
+"Molybdenum(II) chloride	1101","N","Mo6Cl12"
+"Molybdenum(III) chloride	1101","N","MoCl3"
+"Molybdenum(IV) chloride	1101","N","MoCl4"
+"Molybdenum(V) chloride	1101","N","Mo2Cl10"
+"Molybdenum trioxide	1101","N","MoO3"
+"Molybdenum disulfide	1101","N","MoS2"
+"Molybdenum hexacarbonyl	1101","N","Mo(CO)6"
+"Molybdic acid	1101","N","H2MoO4"
+"Neodymium(III) chloride	1101","N","NdCl3"
+"Nessler's reagent	1101","N","K2[HgI4]"
+"Nickel(II) carbonate	1101","N","NiCO3"
+"Nickel(II) chloride	1101","N","NiCl2 and hexahydrate"
+"Nickel(II) fluoride	1101","N","NiF2"
+"Nickel(II) hydroxide	1101","N","Ni(OH)2"
+"Nickel(II) nitrate	1101","N","Ni(NO3)2"
+"Nickel(II) oxide	1101","N","NiO"
+"Nickel(II) sulfamate	1101","N","Ni(SO3NH2)2"
+"Nickel(II) sulfide	1101","N","NiS"
+"Niobium oxychloride	1101","N","NbOCl3"
+"Niobium pentachloride	1101","N","NbCl5"
+"Nitric acid	1101","N","HNO3"
+"Nitrous acid	1101","N","HNO2"
+"Nitrogen monoxide	1101","N","NO"
+"Nitrogen dioxide	1101","N","NO2"
+"Nitrous oxide	1101","N","N2O"
+"Nitrosylsulfuric acid	1101","N","NOHSO4"
+"Osmium tetroxide (osmium(VIII) oxide)	1101","N","OsO4"
+"Osmium trioxide (osmium(VI) oxide)	1101","N","OsO3"
+"Oxybis(tributyltin)	1101","N","C24H54OSn2"
+"Oxygen difluoride	1101","N","OF2"
+"Ozone	1101","N","O3"
+"Palladium(II) chloride	1101","N","PdCl2"
+"Palladium(II) nitrate	1101","N","Pd(NO3)2"
+"Palladium sulfate	1101","N","PdSO4[5]"
+"Pentaborane	1101","N","B5H9"
+"Pentasulfide antimony	1101","N","Sb2S5"
+"Perbromic acid	1101","N","HBrO4"
+"Perchloric acid	1101","N","HClO4"
+"Periodic acid	1101","N","HIO4"
+"Perchloryl fluoride	1101","N","ClFO3"
+"Persulfuric acid (Caro's acid)	1101","N","H2SO5"
+"Perxenic acid	1101","N","H4XeO6"
+"Phenylarsine oxide	1101","N","(C6H5)AsO"
+"Phenylphosphine	1101","N","C6H7P"
+"Phosgene	1101","N","COCl2"
+"Phosphine	1101","N","PH3"
+"Phosphomolybdic acid	1101","N","H3PMo12O40"
+"Phosphoric acid	1101","N","H3PO4"
+"Phosphorous acid (Phosphoric(III) acid)	1101","N","H3PO3"
+"Phosphorus pentabromide	1101","N","PBr5"
+"Phosphorus pentafluoride	1101","N","PF5"
+"Phosphorus pentasulfide	1101","N","P4S10"
+"Phosphorus pentoxide	1101","N","P2O5"
+"Phosphorus sesquisulfide	1101","N","P4S3"
+"Phosphorus tribromide	1101","N","PBr3"
+"Phosphorus trichloride	1101","N","PCl3"
+"Phosphorus trifluoride	1101","N","PF3"
+"Phosphorus triiodide	1101","N","PI3"
+"Phosphotungstic acid	1101","N","H3PW12O40"
+"Platinum(II) chloride	1101","N","PtCl2"
+"Platinum(IV) chloride	1101","N","PtCl4"
+"Plutonium(III) chloride	1101","N","PuCl3"
+"Plutonium dioxide (Plutonium(IV) oxide)	1101","N","PuO2"
+"Potash Alum	1101","N","K2SO4.Al2(SO4)3·24H2O"
+"Potassium aluminium fluoride	1101","N","KAlF4"
+"Potassium borate	1101","N","K2B4O7•4H2O"
+"Potassium bromide	1101","N","KBr"
+"Potassium calcium chloride	1101","N","KCaCl3"
+"Potassium bicarbonate	1101","N","KHCO3"
+"Potassium bisulfite	1101","N","KHSO3"
+"Potassium carbonate	1101","N","K2CO3"
+"Potassium chlorate	1101","N","KClO3"
+"Potassium chlorite	1101","N","KClO2"
+"Potassium chloride	1101","N","KCl"
+"Potassium cyanide	1101","N","KCN"
+"Potassium dichromate	1101","N","K2Cr2O7"
+"Potassium dithionite	1101","N","K2S2O4"
+"Potassium ferrioxalate	1101","N","K3[Fe(C2O4)3]"
+"Potassium ferricyanide	1101","N","K3[Fe(CN)]6"
+"Potassium ferrocyanide	1101","N","K4[Fe(CN)]6"
+"Potassium hydrogencarbonate	1101","N","KHCO3"
+"Potassium hydrogen fluoride	1101","N","HF2K"
+"Potassium hydroxide	1101","N","KOH"
+"Potassium iodide	1101","N","KI"
+"Potassium iodate	1101","N","KIO3"
+"Potassium monopersulfate	1101","N","K2SO4·KHSO4·2KHSO5"
+"Potassium nitrate	1101","N","KNO3"
+"Potassium perbromate	1101","N","KBrO4"
+"Potassium perchlorate	1101","N","KClO4"
+"Potassium periodate	1101","N","KIO4"
+"Potassium permanganate	1101","N","KMnO4"
+"Potassium sulfate	1101","N","K2SO4"
+"Potassium sulfite	1101","N","K2SO3"
+"Potassium sulfide	1101","N","K2S"
+"Potassium tetraiodomercurate(II)	1101","N","K2HgI4"
+"Potassium thiocyanate	1101","N","KSCN"
+"Potassium titanyl phosphate	1101","N","KTiOPO4"
+"Potassium vanadate	1101","N","KVO3"
+"Praseodymium(III) chloride	1101","N","PrCl3"
+"Protonated molecular hydrogen	1101","N","H3+"
+"Prussian blue (Iron(III) hexacyanoferrate(II))	1101","N","Fe4[Fe(CN)6]3"
+"Pyrosulfuric acid	1101","N","H2S2O7"
+"Radium chloride	1101","N","RaCl2"
+"Radon difluoride	1101","N","RnF2"
+"Rhodium(III) chloride	1101","N","RhCl3"
+"Rubidium bromide	1101","N","RbBr"
+"Rubidium chloride	1101","N","RbCl"
+"Rubidium fluoride	1101","N","RbF"
+"Rubidium hydroxide	1101","N","RbOH"
+"Rubidium iodide	1101","N","RbI"
+"Rubidium nitrate	1101","N","RbNO3"
+"Rubidium oxide	1101","N","Rb2O"
+"Rubidium telluride	1101","N","Rb2Te"
+"Ruthenium(VIII) oxide	1101","N","RuO4"
+"Samarium(II) iodide	1101","N","SmI2"
+"Samarium(III) chloride	1101","N","SmCl3"
+"Scandium(III) chloride	1101","N","ScCl3 and hydrate"
+"Scandium(III) fluoride	1101","N","ScF3"
+"Scandium(III) nitrate	1101","N","Sc(NO3)3"
+"Scandium(III) oxide	1101","N","Sc2O3"
+"Scandium(III) triflate	1101","N","Sc(OSO2CF3)3"
+"Selenic acid	1101","N","H2SeO4"
+"Selenious acid	1101","N","H2SeO3"
+"Selenium dioxide	1101","N","SeO2"
+"Selenium disulfide	1101","N","SeS2"
+"Selenium hexafluoride	1101","N","SeF6"
+"Selenium hexasulfide	1101","N","Se2S6"
+"Selenium oxybromide	1101","N","SeOBr2"
+"Selenium oxydichloride	1101","N","SeOCl2"
+"Selenium tetrachloride	1101","N","SeCl4"
+"Selenium tetrafluoride	1101","N","SeF4"
+"Selenium trioxide	1101","N","SeO3"
+"Selenoyl fluoride	1101","N","SeO2F2"
+"Silane	1101","N","SiH4"
+"Silica gel	1101","N","SiO2·nH2O"
+"Silicic acid	1101","N","[SiOx(OH)4"
+"Silicochloroform, trichlorosilane	1101","N","Cl3HSi"
+"Silicofluoric acid	1101","N","H2SiF6"
+"Silicon boride	1101","N","SiB3"
+"Silicon carbide	1101","N","SiC"
+"Silicon dioxide	1101","N","SiO2"
+"Silicon monoxide	1101","N","SiO"
+"Silicon nitride	1101","N","Si3N4"
+"Silicon tetrabromide	1101","N","SiBr4"
+"Silicon tetrachloride	1101","N","SiCl4"
+"Silver argentocyanide	1101","N","KAg(CN)2"
+"Silver azide	1101","N","AgN3"
+"Silver bromate	1101","N","AgBrO3"
+"Silver bromide	1101","N","AgBr"
+"Silver chlorate	1101","N","AgClO3"
+"Silver chloride	1101","N","AgCl"
+"Silver chromate	1101","N","Ag2CrO4"
+"Silver fluoroborate	1101","N","AgBF4"
+"Silver fulminate	1101","N","AgCNO"
+"Silver hydroxide	1101","N","AgOH"
+"Silver iodide	1101","N","AgI"
+"Silver nitrate	1101","N","AgNO3"
+"Silver nitride	1101","N","Ag3N"
+"Silver oxide	1101","N","Ag2O"
+"Silver perchlorate	1101","N","AgClO4"
+"Silver phosphate (silver orthophosphate)	1101","N","Ag3PO4"
+"Silver subfluoride	1101","N","Ag2F"
+"Silver sulfate	1101","N","Ag2SO4"
+"Silver sulfide	1101","N","Ag2S"
+"Silver(I) fluoride	1101","N","AgF"
+"Silver(II) fluoride	1101","N","AgF2"
+"Soda lime	1101","N",""
+"Sodamide	1101","N","NaNH2"
+"Sodium aluminate	1101","N","NaAlO2"
+"Sodium arsenate	1101","N","H24Na3AsO16"
+"Sodium azide	1101","N","NaN3"
+"Sodium bicarbonate	1101","N","NaHCO3"
+"Sodium biselenide	1101","N","NaHSe"
+"Sodium bisulfite	1101","N","NaHSO3"
+"Sodium borate	1101","N","Na2B4O7"
+"Sodium borohydride	1101","N","NaBH4"
+"Sodium bromate	1101","N","NaBrO3"
+"Sodium bromide	1101","N","NaBr"
+"Sodium bromite	1101","N","NaBrO2"
+"Sodium carbide	1101","N","Na2C2"
+"Sodium carbonate	1101","N","Na2CO3"
+"Sodium chlorate	1101","N","NaClO3"
+"Sodium chloride	1101","N","NaCl"
+"Sodium chlorite	1101","N","NaClO2"
+"Sodium cobaltinitrite	1101","N","CoN6Na3O12[6]"
+"Sodium cyanate	1101","N","NaCNO"
+"Sodium cyanide	1101","N","NaCN"
+"Sodium dichromate	1101","N","Na2Cr2O7.2H2O"
+"Sodium dioxide	1101","N","NaO2"
+"Sodium dithionite	1101","N","Na2S2O4"
+"Sodium ferrocyanide	1101","N","Na4Fe(CN)6"
+"Sodium fluorosilicate 	1101","N","F6Na2Si"
+"Sodium hydride	1101","N","NaH"
+"Sodium hydrogen carbonate (Sodium bicarbonate)	1101","N","NaHCO3"
+"Sodium hydrosulfide	1101","N","NaSH"
+"Sodium hydroxide	1101","N","NaOH"
+"Sodium hypobromite	1101","N","NaBrO"
+"Sodium hypochlorite	1101","N","NaOCl"
+"Sodium hypoiodite	1101","N","NaIO"
+"Sodium hypophosphite	1101","N","NaPO2H2"
+"Sodium iodate	1101","N","NaIO3"
+"Sodium iodide	1101","N","NaI"
+"Sodium manganate	1101","N","Na2MnO4"
+"Sodium molybdate	1101","N","Na2MoO4"
+"Sodium monofluorophosphate (MFP)	1101","N","Na2PFO3"
+"Sodium nitrate	1101","N","NaNO3"
+"Sodium nitrite	1101","N","NaNO2"
+"Sodium nitroprusside	1101","N","Na2[Fe(CN)5NO]·2H2O"
+"Sodium oxide	1101","N","Na2O"
+"Sodium perborate	1101","N","NaBO3·H2O"
+"Sodium perbromate	1101","N","NaBrO4"
+"Sodium percarbonate	1101","N","2Na2CO3·3H2O2"
+"Sodium perchlorate	1101","N","NaClO4"
+"Sodium periodate	1101","N","NaIO4"
+"Sodium permanganate	1101","N","NaMnO4"
+"Sodium peroxide	1101","N","Na2O2"
+"Sodium perrhenate	1101","N","NaReO4"
+"Sodium persulfate	1101","N","Na2S2O8"
+"Sodium phosphate; see trisodium phosphate	1101","N","Na3PO4"
+"Sodium selenate	1101","N","Na2O4Se"
+"Sodium selenide	1101","N","Na2Se"
+"Sodium selenite	1101","N","Na2SeO3"
+"Sodium silicate	1101","N","Na2SiO3"
+"Sodium sulfate	1101","N","Na2SO4"
+"Sodium sulfide	1101","N","Na2S"
+"Sodium sulfite	1101","N","Na2SO3"
+"Sodium tellurite	1101","N","Na2TeO3"
+"Sodium thioantimoniate	1101","N","Na3(SbS4).9H2O"
+"Sodium thiocyanate	1101","N","NaSCN"
+"Sodium thiosulfate	1101","N","Na2S2O3"
+"Sodium tungstate	1101","N","Na2WO4"
+"Sodium uranate	1101","N","Na2O7U2"
+"Sodium zincate	1101","N","H4Na2O4Zn"
+"Stibine	1101","N","SbH3"
+"Strontium carbonate	1101","N","SrCO3"
+"Strontium chloride	1101","N","SrCl2"
+"Strontium fluoride	1101","N","SrF2"
+"Strontium hydroxide	1101","N","Sr(OH)2"
+"Strontium nitrate	1101","N","Sr(NO3)2"
+"Strontium oxide	1101","N","SrO"
+"Strontium titanate	1101","N","SrTiO3"
+"Sulfamic acid	1101","N","H3NO3S"
+"Hydrogen sulfide (sulfane)	1101","N","H2S"
+"Sulfur dioxide	1101","N","SO2"
+"Sulfur hexafluoride	1101","N","SF6"
+"Sulfur tetrafluoride	1101","N","SF4"
+"Disulfur decafluoride	1101","N","S2F10"
+"Sulfuric acid	1101","N","H2SO4"
+"Sulfurous acid	1101","N","H2SO3"
+"Sulfuryl chloride	1101","N","SO2Cl2"
+"Tantalum carbide	1101","N","TaC"
+"Tantalum(V) oxide	1101","N","Ta2O5"
+"Telluric acid	1101","N","H6TeO6"
+"Tellurium dioxide	1101","N","TeO2"
+"Tellurium tetrachloride	1101","N","TeCl4"
+"Tellurous acid	1101","N","H2TeO3"
+"Terbium(III) chloride	1101","N","TbCl3"
+"Tetraborane	1101","N","B4H10"
+"Tetrachloroauric acid	1101","N","HAuCl4"
+"Tetrafluorohydrazine	1101","N","N2F4"
+"Tetramminecopper(II) sulfate	1101","N","[Cu(NH3)4]SO4"
+"Tetrasulfur tetranitride	1101","N","S4N4"
+"Thallium(I) carbonate	1101","N","Tl2CO3"
+"Thallium(I) fluoride	1101","N","TlF"
+"Thallium(III) oxide	1101","N","Tl2O3"
+"Thallium(III) sulfate	1101","N","Tl2(SO4)2"
+"Thionyl chloride	1101","N","SOCl2"
+"Thiophosgene	1101","N","CSCl2"
+"Thiophosphoryl chloride	1101","N","Cl3PS"
+"Thorium dioxide	1101","N","ThO2"
+"Thortveitite	1101","N","(Sc,Y)2Si2O7"
+"Thulium(III) chloride	1101","N","TmCl3"
+"Tin(II) chloride (stannous chloride)	1101","N","SnCl2"
+"Tin(II) fluoride	1101","N","SnF2"
+"Tin(IV) chloride	1101","N","SnCl4"
+"Titanium boride	1101","N","TiB2"
+"Titanium carbide	1101","N","TiC"
+"Titanium dioxide (titanium(IV) oxide)	1101","N","TiO2"
+"Titanium nitride	1101","N","TiN"
+"Titanium(IV) bromide (titanium tetrabromide)	1101","N","TiBr4"
+"Titanium(IV) carbide	1101","N","TiC"
+"Titanium(IV) chloride (titanium tetrachloride)	1101","N","TiCl4"
+"Titanium(III) chloride	1101","N","TiCl3"
+"Titanium(II) chloride	1101","N","TiCl2"
+"Titanium(III) fluoride	1101","N","TiF3"
+"Titanium(IV) iodide (titanium tetraiodide)	1101","N","TiI4"
+"Trifluoromethylisocyanide	1101","N","C2NF3"
+"Trifluoromethanesulfonic acid	1101","N","CF3SO3H"
+"Trimethylphosphine	1101","N","C3H9P"
+"Trioxidane	1101","N","H2O3"
+"Tripotassium phosphate	1101","N","K3PO4"
+"Trisodium phosphate	1101","N","Na3PO4"
+"Triuranium octaoxide (pitchblende or yellowcake)	1101","N","U3O8"
+"Tungsten boride	1101","N","WB2"
+"Tungsten carbide	1101","N","WC"
+"Tungsten(VI) chloride	1101","N","WCl6"
+"Tungsten(VI) fluoride	1101","N","WF6"
+"Tungstic acid	1101","N","H2WO4"
+"Tungsten hexacarbonyl	1101","N","W(CO)6"
+"Uranium hexafluoride	1101","N","UF6"
+"Uranium pentafluoride	1101","N","UF5"
+"Uranium tetrachloride	1101","N","UCl4"
+"Uranium tetrafluoride	1101","N","UF4"
+"Uranyl acetate	1101","N","UO2(CH3COO)2"
+"Uranyl carbonate	1101","N","UO2CO3"
+"Uranyl chloride	1101","N","UO2Cl2"
+"Uranyl fluoride	1101","N","UO2F2"
+"Uranyl hydroxide	1101","N","UO2(OH)2"
+"Uranyl hydroxide	1101","N","(UO2)2(OH)4"
+"Uranyl nitrate	1101","N","UO2(NO3)2"
+"Uranyl sulfate	1101","N","UO2SO4"
+"Vanadium carbide	1101","N","VC"
+"Vanadium oxytrichloride (Vanadium(V) oxide trichloride)	1101","N","VOCl3"
+"Vanadium(IV) chloride	1101","N","VCl4"
+"Vanadium(II) chloride	1101","N","VCl2"
+"Vanadium(II) oxide	1101","N","VO"
+"Vanadium(III) nitride	1101","N","VN"
+"Vanadium(III) bromide	1101","N","VBr3"
+"Vanadium(III) chloride	1101","N","VCl3"
+"Vanadium(III) fluoride	1101","N","VF3"
+"Vanadium(IV) fluoride	1101","N","VF4"
+"Vanadium(III) oxide	1101","N","V2O3"
+"Vanadium(IV) oxide	1101","N","VO2"
+"Vanadium(IV) sulfate	1101","N","VOSO4"
+"Vanadium(V) oxide	1101","N","V2O5"
+"Water	1101","N","H2O"
+"Xenon difluoride	1101","N","XeF2"
+"Xenon hexafluoroplatinate	1101","N","Xe[PtF6]"
+"Xenon tetrafluoride	1101","N","XeF4"
+"Xenon tetroxide	1101","N","XeO4"
+"Xenic acid	1101","N","H2XeO4"
+"Ytterbium(III) chloride	1101","N","YbCl3"
+"Ytterbium(III) oxide	1101","N","Yb2O3"
+"Yttrium(III) antimonide	1101","N","YSb"
+"Yttrium(III) arsenide	1101","N","YAs"
+"Yttrium(III) bromide	1101","N","YBr3"
+"Yttrium aluminium garnet	1101","N","Y3Al5O12"
+"Yttrium barium copper oxide	1101","N","YBa2Cu3O7"
+"Yttrium(III) fluoride	1101","N","YF3"
+"Yttrium iron garnet	1101","N","Y3Fe5O12"
+"Yttrium(III) oxide	1101","N","Y2O3"
+"Yttrium(III) sulfide	1101","N","Y2S3"
+"Yttrium copper	1101","N","YCu"
+"Yttrium silver	1101","N","YAg"
+"Yttrium gold	1101","N","YAu"
+"Yttrium rhodium	1101","N","YRh"
+"Yttrium iridium	1101","N","YIr"
+"Yttrium zinc	1101","N","YZn"
+"Yttrium cadmium	1101","N","YCd"
+"Yttrium magnesium	1101","N","YMg"
+"Zinc bromide	1101","N","ZnBr2"
+"Zinc carbonate	1101","N","ZnCO3"
+"Zinc chloride	1101","N","ZnCl2"
+"Zinc cyanide	1101","N","Zn(CN)2"
+"Zinc fluoride	1101","N","ZnF2"
+"Zinc iodide	1101","N","ZnI2"
+"Zinc oxide	1101","N","ZnO"
+"Zinc selenide	1101","N","ZnSe"
+"Zinc sulfate	1101","N","ZnSO4"
+"Zinc sulfide	1101","N","ZnS"
+"Zinc telluride	1101","N","ZnTe"
+"Zirconia hydrate	1101","N","ZrO2·nH2O"
+"Zirconium boride	1101","N","ZrB2"
+"Zirconium carbide	1101","N","ZrC"
+"Zirconium(IV) chloride	1101","N","ZrCl4"
+"Zirconium nitride	1101","N","ZrN"
+"Zirconium hydroxide	1101","N","Zr(OH)4"
+"Zirconium(IV) oxide	1101","N","ZrO2"
+"Zirconium orthosilicate	1101","N","ZrSiO4"
+"Zirconium tetrafluoride	1101","N","ZrF4"
+"Zirconium tetrahydroxide	1101","N","H4O4Zr"
+"Zirconium tungstate	1101","N","ZrW2O8"
