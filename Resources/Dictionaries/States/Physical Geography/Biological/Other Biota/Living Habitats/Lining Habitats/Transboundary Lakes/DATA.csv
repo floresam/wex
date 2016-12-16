@@ -1,0 +1,205 @@
+"COL1","COL2","COL3"
+"Fagnano	1101","N","Argentina; Chile"
+"Roca	1101","N","Argentina; Chile"
+"Descado	1101","N","Argentina; Chile"
+"Ohiggins	1101","N","Argentina; Chile"
+"Cochrane	1101","N","Argentina; Chile"
+"Buenos Aries	1101","N","Argentina; Chile"
+"Palena	1101","N","Argentina; Chile"
+"Interior	1101","N","Argentina; Chile"
+"Constancia	1101","N","Argentina; Chile"
+"Merin	1101","N","Brazil; Uruguay"
+"Salto Grande	1101","N","Argentina; Uruguay"
+"Yacyreta	1101","N","Argentina; Paraguay"
+"Itaipu	1101","N","Brazil; Paraguay"
+"Baia Grande	1101","N","Bolivia; Brazil"
+"TB Lake No. 23	1101","N","Bolivia; Brazil"
+"Caeeres	1101","N","Bolivia; Brazil"
+"Baia Vermelha	1101","N","Bolivia; Brazil"
+"Mandiore	1101","N","Bolivia; Brazil"
+"Gaiba	1101","N","Bolivia; Brazil"
+"Ubeaba	1101","N","Bolivia; Brazil"
+"Baia Orion	1101","N","Bolivia; Brazil"
+"Piranas1	1101","N","Bolivia; Brazil"
+"Piranas2	1101","N","Bolivia; Brazil"
+"Blanca	1101","N","Chile; Peru"
+"Chungarkkota	1101","N","Bolivia; Peru"
+"Parinacota	1101","N","Bolivia; Peru"
+"Titicaca	1101","N","Bolivia; Peru"
+"Suches	1101","N","Bolivia; Peru"
+"Guija	1101","N","Guatemala; El Salvador"
+"Azuei	1101","N","Dominican Republic; Haiti"
+"Falcon	1101","N","Mexico; USA"
+"Amistad	1101","N","Mexico; USA"
+"Koocanusa	1101","N","Canada; USA"
+"Cameron	1101","N","Canada; USA"
+"Waterton	1101","N","Canada; USA"
+"Osoyoos	1101","N","Canada; USA"
+"Ross	1101","N","Canada; USA"
+"Boundary	1101","N","Canada; USA"
+"Lake Of Woods	1101","N","Canada; USA"
+"Rainy	1101","N","Canada; USA"
+"Saganaga	1101","N","Canada; USA"
+"Superior	1101","N","Canada; USA"
+"Michigan	1101","N","Canada; USA"
+"Ontario	1101","N","Canada; USA"
+"Champlain	1101","N","Canada; USA"
+"Memphremagog	1101","N","Canada; USA"
+"East Grand	1101","N","Canada; USA"
+"Spednic	1101","N","Canada; USA"
+"Huron	1101","N","Canada; USA"
+"Erie	1101","N","Canada; USA"
+"Congo River Lake	1101","N","DPR Congo; Congo"
+"Sat Jan 01 2033 00:00:00 GMT-0500 (Eastern Standard Time)	1101","N","Namibia; South Africa"
+"Gaborone	1101","N","South Africa; Botswana"
+"Jozini	1101","N","South Africa; Swaziland"
+"Driekoppies	1101","N","South Africa; Swaziland"
+"Kariba	1101","N","Zambia; Zimbabwe"
+"Cahora Bassa	1101","N","Mozambique; Zambia; Zimbawe"
+"Malawi	1101","N","Malawi; Mozambique; Tanzania"
+"Chilwa	1101","N","Malawi; Mozambique"
+"Chiuta	1101","N","Malawi; Mozambique"
+"Mweru	1101","N","DR Congo; Zambia"
+"Tanganyika	1101","N","Burundi; DR Congo; Tanzania; Zambia"
+"Edward	1101","N","DRCongo; Uganda"
+"Victoria	1101","N","Kenya; Tanzania; Uganda"
+"Ihema	1101","N","Tanzania; Rwanda"
+"Kivu	1101","N","DR Congo; Rwanda"
+"Cohoha	1101","N","Burundi; Rwanda"
+"Rweru	1101","N","Burundi; Rwanda"
+"Albert	1101","N","DR Congo; Uganda"
+"Turkana	1101","N","Ethiopia; Kenya"
+"Jipe	1101","N","Kenya; Tanzania"
+"Natron	1101","N","Kenya; Tanzania"
+"Jau	1101","N","South Sudan; Sudan"
+"Abhe	1101","N","Djbouti; Ethiopia"
+"Nasser	1101","N","Egypt; Sudan"
+"Fianga	1101","N","Cameroon; Chad"
+"Chad	1101","N","Cameroon; Chad"
+"Selingue	1101","N","Guinea; Mali"
+"Aby	1101","N","Cote d'Ivoire; Ghana"
+"Fete Maraboule	1101","N","Brukina Faso; Mali"
+"Kalmalo	1101","N","Niger; Nigeria"
+"Lough Melvin	1101","N","Ireland; Northern Ireland"
+"Zhara	1101","N","Egypt; Libya"
+"Adhibate	1101","N","Libya; Tunisia"
+"Brega	1101","N","Libya; Tunisia"
+"Dead Sea	1101","N","Israel; Jordon; Palenstine"
+"Galilee	1101","N","Israel; Syria (Golan Heights)"
+"Bilecko	1101","N","Bosnia and Herzegovina; Montenegro"
+"Dojran	1101","N","Greece; Macadonia"
+"Ohrid	1101","N","Albania; Macadonia"
+"Prespa Micro	1101","N","Albania; Greece"
+"Prespa Macro	1101","N","Albania; Greece; Macedonia"
+"Fierza	1101","N","Albania; Serbia (Kosovo)"
+"Scutari	1101","N","Albania; Montenegro"
+"Gazivoda	1101","N","Kosovo; Serbia"
+"Cuciurgan	1101","N","Moldova; Ukraine"
+"Acumlare Costesti	1101","N","Moldova; Romania"
+"Cahul	1101","N","Moldova; Ukraine"
+"Beleu	1101","N","Moldova; Romania"
+"Szczecin Lagoon	1101","N","Germany; Poland"
+"Neusiedler	1101","N","Austria; Hungary"
+"Orava	1101","N","Poland; Slovakia"
+"Rannasee	1101","N","Austria; Germany"
+"Galadusis	1101","N","Lithuania; Poland"
+"Vistytis	1101","N","Lithuania; Russia"
+"Ricu Ezers	1101","N","Belarus; Latvia"
+"Apardai	1101","N","Belarus; Lithuania"
+"Durksiai	1101","N","Belarus; Lithuania"
+"Sennitsa	1101","N","Belarus; Russia"
+"Yezerishche	1101","N","Belarus; Russia"
+"Melkoye Or Ordova	1101","N","Belarus; Russia"
+"Cherepetskoye	1101","N","Belarus; Russia"
+"Beloye	1101","N","Belarus; Russia"
+"Lisno	1101","N","Belarus; Russia"
+"Pitelis	1101","N","Latvia; Russia"
+"Peipsi	1101","N","Estonia; Russia"
+"Narva	1101","N","Estonia; Russia"
+"Nuijamaajarvi	1101","N","Finland; Russia"
+"Nietaselka	1101","N","Finland; Russia"
+"Korpijarvi	1101","N","Finland; Russia"
+"Luovejarvi	1101","N","Finland; Russia"
+"Virmajavri	1101","N","Finland; Russia"
+"Pyhajarvi	1101","N","Finland; Russia"
+"Tyrjajarvi	1101","N","Finland; Russia"
+"Geneva	1101","N","France; Switzerland"
+"Lac de Moron	1101","N","France; Switzerland"
+"Lac des Brenets	1101","N","Switzerland; France"
+"Constance	1101","N",""
+"Lago De Lei	1101","N","Italy; Switzerland"
+"Lago Di Livingo	1101","N","Italy; Switzerland"
+"Maggiore	1101","N","Italy; Switzerland"
+"Lugano	1101","N","Switzerland; Italy"
+"Onkamojarvi	1101","N","Finland; Russia"
+"Madsash-Yaur	1101","N","Finland; Russia"
+"Bozell	1101","N","Norway; Russia"
+"Svanevatn	1101","N","Norway; Russia"
+"Valasjarvi	1101","N","Norway; Russia"
+"Bavrojavrre	1101","N","Norway; Sweden"
+"Siiddasjavri	1101","N","Norway; Sweden"
+"Gautelisvatnet	1101","N","Norway; Sweden"
+"Unna Guovdelisjavri	1101","N","Norway; Sweden"
+"Vuolep Sarjasjavrre	1101","N","Norway; Sweden"
+"Leirvatnet	1101","N","Norway; Sweden"
+"Ranseren	1101","N","Norway; Sweden"
+"Gresvatnet	1101","N","Norway; Sweden"
+"Litlumvatnet	1101","N","Norway; Sweden"
+"Overuman Or Uman	1101","N","Norway; Sweden"
+"Rogen	1101","N","Norway; Sweden"
+"Holderen	1101","N","Norway; Sweden"
+"Kingen	1101","N","Norway; Sweden"
+"Rengen	1101","N","Norway; Sweden"
+"Leinavatn	1101","N","Norway; Sweden"
+"Kilpisjarvi	1101","N","Finland; Sweden"
+"Rostojavri	1101","N","Norway; Sweden"
+"Sistan	1101","N","Afghanistan; Iran"
+"Al Uzaim	1101","N","Iran; Iraq"
+"Doosti	1101","N","Iran; Turkmenistan"
+"Shor-kul	1101","N","Turkmenistan; Uzbekistan"
+"Mon Jan 01  125 00:00:00 GMT-0500 (Eastern Standard Time)	1101","N","Turkmenistan; Uzbekistan"
+"Sun Jan 01  130 00:00:00 GMT-0500 (Eastern Standard Time)	1101","N","Kazakhstan; Uzbekistan"
+"Aral Sea	1101","N","Kazakhstan; Uzbekistan"
+"Sarygamysh	1101","N","Turkmenistan; Uzbekistan"
+"Mon Jan 01  131 00:00:00 GMT-0500 (Eastern Standard Time)	1101","N","Kazakhstan; Uzbekistan"
+"Ranjeet Sagar	1101","N","India; Pakistan"
+"Mangla	1101","N","India; Pakistan"
+"Pongur	1101","N","China; India"
+"Pangong	1101","N","China; India"
+"Sari Qul	1101","N","Afghanistan; Tajikistan"
+"Karkidan	1101","N","Kyrgyzstan; Uzbekistan"
+"Andijan	1101","N","Kyrgyzstan; Uzbekistan"
+"Sun Jan 01  119 00:00:00 GMT-0500 (Eastern Standard Time)	1101","N","Tajikistan; Uzbekistan"
+"Shardara	1101","N","Kazakhstan; Uzbekistan"
+"Botkol	1101","N","Kazakhstan; Russia"
+"Darbandikhan	1101","N","Iran; Iraq"
+"Caspian Sea	1101","N","Azerbiajan; Iran; Kazakhstan; Russia; Turkmenistan"
+"Aras Su Qovsaginin Su Anbari	1101","N","Azerbaijan; Iran"
+"Jandara	1101","N","Azerbaijan; Georgia"
+"Arpakay	1101","N","Aremenia; Turkey"
+"Aktas Golu	1101","N","Georgia; Turkey"
+"Ayke Koli	1101","N","Kazakhstan; Russia"
+"Arlakol	1101","N","Kazakhstan; Russia"
+"Akush	1101","N","Kazakhstan; Russia"
+"Lebyazh'ye	1101","N","Kazakhstan; Russia"
+"Siverga	1101","N","Kazakhstan; Russia"
+"Kai Lagoon	1101","N","Indonesia; Papua New Guinea"
+"Khanka	1101","N","China; Russia"
+"Tianchi or Hon	1101","N","China; North Korea"
+"Shuifeng	1101","N","China; North Korea"
+"Wed Jan 01  121 00:00:00 GMT-0500 (Eastern Standard Time)	1101","N","China; North Korea"
+"Longshan	1101","N","China; North Korea"
+"Thu Jan 01  133 00:00:00 GMT-0500 (Eastern Standard Time)	1101","N","China; Mongolia"
+"Sat Jan 01  135 00:00:00 GMT-0500 (Eastern Standard Time)	1101","N","China; Mongolia"
+"Buir Nuur	1101","N","China; Mongolia"
+"Tsagaan Nuur	1101","N","China; Mongolia"
+"Zon-Torey	1101","N","Mongolia; Russia"
+"Doroo Nuur	1101","N","Mongolia; Russia"
+"Uvs	1101","N","Mongolia; Russia"
+"Bura	1101","N","Kazakhstan; Russia"
+"Chagan	1101","N","Kazakhstan; Russia"
+"Karasuk	1101","N","Kazakhstan; Russia"
+"Ul'kensor	1101","N","Kazakhstan; Russia"
+"Kumdykol	1101","N","Kazakhstan; Russia"
+"Kel'tesor	1101","N","Kazakhstan; Russia"
+"Polovinnoye	1101","N","Kazakhstan; Russia"

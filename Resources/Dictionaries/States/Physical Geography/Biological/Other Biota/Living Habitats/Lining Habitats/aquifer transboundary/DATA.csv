@@ -1,0 +1,339 @@
+"COL1","COL2","COL3","COL4"
+"Sarstún	1101","N","10C","Guatemala, Belize"
+"Sonoyta-Pápagos	1101","N","10N","Mexico, United States of America"
+"Tulcán-Ipiales	1101","N","10S","Colombia, Ecuador"
+"Temash	1101","N","11C","Guatemala, Belize"
+"Nogales	1101","N","11N","Mexico, United States of America"
+"Zarumilla	1101","N","11S","Ecuador, Peru"
+"Delta del Río Motagua	1101","N","12C","Guatemala, Honduras"
+"Santa Cruz	1101","N","12N","Mexico, United States of America"
+"Puyango-Tumbes-Catamayo-Chira	1101","N","12S","Ecuador, Peru"
+"Chiquimula - Copán Ruinas	1101","N","13C","Guatemala, Honduras"
+"San Pedro	1101","N","13N","Mexico, United States of America"
+"Esquipulas-Ocotepeque-Citalá	1101","N","14C","Honduras, El Salvador, Guatemala"
+"Conejos Médanos-Bolsón de la Mesilla	1101","N","14N","Mexico, United States of America"
+"Titicaca	1101","N","14S","Bolivia, Chile, Peru"
+"Ostua-Metapán	1101","N","15C","Guatemala, El Salvador"
+"Bolsón del Hueco-Valle de Juárez	1101","N","15N","Mexico, United States of America"
+"Pantanal	1101","N","15S","Bolivia, Brazil, Paraguay"
+"Río Paz	1101","N","16C","Guatemala, El Salvador"
+"Edwards-Trinity-El Burro	1101","N","16N","Mexico, United States of America"
+"Agua Dulce	1101","N","16S","Bolivia, Paraguay"
+"Estero Real-Río Negro	1101","N","17C","Nicaragua, Honduras"
+"Cuenca Baja del Río Bravo-Grande	1101","N","17N","Mexico, United States of America"
+"Ollagüe-Pastos Grandes	1101","N","17S","Bolivia,Chile"
+"Sixaola / Salinas Aquifer	1101","N","18C","Costa Rica, Panama"
+"Los Mimbres-Las Palmas	1101","N","18N","Mexico, United States of America"
+"Concordia-Escritos-Caplina	1101","N","18S","Peru, Chile"
+"Judith River	1101","N","19N","Canada, United States of America"
+"Aquidauana-Aquidabán	1101","N","19S","Brazil, Paraguay"
+"Soconusco-Suchiate/Coatán	1101","N","1C","Guatemala, Mexico"
+"Masacre	1101","N","1CB","Dominican Republic, Haiti"
+"Abbotsford-Sumas	1101","N","1N","Canada, United States of America"
+"Choco-Darién	1101","N","1S","Honduras, Colombia"
+"Milk River	1101","N","20N","Canada, United States of America"
+"Caiua-Bauru-Acaray Aquifer
+Caiua-Bauru-Acaray Aquifer	1101","N","20S","Brazil, Paraguay"
+"Richelieu/Lake Champlain	1101","N","21N","Canada"
+"Sistema Aquífero Guaraní	1101","N","21S","Argentina, Brazil, Paraguay, Uruguay"
+"Serra Geral	1101","N","22S","Argentina, Brazil, Paraguay, Uruguay"
+"Litoráneo-Chuy	1101","N","23S","Brazil, Uruguay"
+"Permo-Carbonífero	1101","N","24S","Brazil, Uruguay"
+"Litoral-Cretácico	1101","N","25S","Argentina, Uruguay"
+"Salto-Salto Chico	1101","N","26S","Argentina, Uruguay"
+"Puneños	1101","N","27S","Argentina, Bolivia"
+"Yrendá-Toba-Tarijeño	1101","N","28S","Argentina, Bolivia, Paraguay"
+"El Cóndor-Cañadón del Cóndor	1101","N","29S","Argentina, Chile"
+"Chicomuselo-Cuilco/Selegua	1101","N","2C","Guatemala, Mexico"
+"Artibonito	1101","N","2CB","Dominican Republic, Haiti"
+"Okanagan-Osoyoos	1101","N","2N","Canada, United States of America"
+"Táchira Pamplonita	1101","N","2S","Colombia, Venezuela"
+"Ascotán	1101","N","30S","Bolivia,Chile"
+"Ocosingo-Usumacinta-Pocóm-Ixcán	1101","N","3C","Guatemala, Mexico"
+"Los Lagos	1101","N","3CB","Dominican Republic, Haiti"
+"Grand Forks	1101","N","3N","Canada, United States of America"
+"La Guajira	1101","N","3S","Colombia, Venezuela"
+"Márquez de Comillas-Chixoy/Xaclbal	1101","N","4C","Guatemala, Mexico"
+"Pedernales	1101","N","4CB","Dominican Republic, Haiti"
+"Poplar	1101","N","4N","Canada, United States of America"
+"Grupo Roraima	1101","N","4S","Brazil, Guyana, Venezuela"
+"Boca del Cerro-San Pedro	1101","N","5C","Guatemala, Mexico"
+"Estevan	1101","N","5N","Canada, United States of America"
+"Boa Vista-Serra do Tucano-North Savanna	1101","N","5S","Brazil, Guyana"
+"Trinitaria-Nentón	1101","N","6C","Guatemala, Mexico"
+"Northern Great Plains	1101","N","6N","Canada, United States of America"
+"Zanderij	1101","N","6S","French Guiana, Guyana, Suriname"
+"Península de Yucatán-Candelaria-Hondo	1101","N","7C","Belize, Guatemala, Mexico"
+"Châteauguay	1101","N","7N","Canada, United States of America"
+"Coesewijne	1101","N","7S","Guyana, Suriname"
+"Mopán-Belice	1101","N","8C","Guatemala, Belize"
+"San Diego-Tijuana	1101","N","8N","Mexico, United States of America"
+"A-Sand/B-Sand	1101","N","8S","Guyana, Suriname"
+"Pusila-Moho	1101","N","9C","Guatemala, Belize"
+"Cuenca Baja del Río Colorado	1101","N","9N","Mexico, United States of America"
+"Costeiro	1101","N","9S","Brazil, French Guiana"
+"Karoo Sedimentary Aquifer	1101","N","AF1","Lesotho, South Africa"
+"Northern Kalahari / Karoo Basin / Eiseb Graben Aquifer	1101","N","AF10","Botswana, Namibia"
+"Save Aluvial	1101","N","AF11","Mozambique, Zimbabwe"
+"Eastern Kalahari Karoo Basin	1101","N","AF12","Botswana, Zimbabwe"
+"Cuvelai and Ethosa Basin / Ohangwena Aquifer System	1101","N","AF13","Angola, Namibia"
+"Nata Karoo Sub-basin / Caprivi deep-seated Aquifer	1101","N","AF14","Angola, Botswana, Namibia, Zambia, Zimbabwe"
+"Coastal Sedimentary Basin IV	1101","N","AF15","Angola, Namibia"
+"Medium Zambesi Aquifer	1101","N","AF16","Zambia, Zimbabwe"
+"Shire Valley Alluvial Aquifer	1101","N","AF17","Mozambique, Malawi"
+"Arangua Alluvial	1101","N","AF18","Mozambique, Zambia"
+"Sand and Gravel Aquifer	1101","N","AF19","Malawi, Zambia"
+"Coastal Sedimentary Basin V	1101","N","AF2","South Africa, Namibia"
+"Coastal Sedimentary Basin III	1101","N","AF20","Mozambique, Tanzania"
+"Karoo Sandstone Aquifer	1101","N","AF21","Mozambique, Tanzania"
+"Kalahari/Katangian Basin/Lualaba	1101","N","AF22","Zambia, Democratic Republic of the Congo"
+"Coango	1101","N","AF23","Democratic Republic of the Congo, Angola"
+"Weathered basement
+Weathered basement
+Weathered basement	1101","N","AF24","Malawi, Tanzania, Zambia"
+"Karoo-Carbonate	1101","N","AF25","Central African Republic, Congo, South Sudan"
+"Dolomitic Basin	1101","N","AF27","Angola, Democratic Republic of the Congo, Congo"
+"Cuvette	1101","N","AF29","Congo, Democratic Republic of the Congo"
+"Coastal Sedimentary Basin VI / Coastal Plain Sedimentary Basin Aquifer	1101","N","AF3","Mozambique, South Africa"
+"Coastal Sedimentary Basin I / Karoo Sedimetary Aquifer	1101","N","AF31","Kenya, Tanzania"
+"Kilimanjaro Aquifer	1101","N","AF32","Kenya, Tanzania"
+"AF33	1101","N","AF33","Congo, Gabon"
+"AF34	1101","N","AF34","Congo, Gabon"
+"Kagera Aquifer	1101","N","AF36","Tanzania, Rwanda, Uganda"
+"Merti Aquifer	1101","N","AF38","Kenya, Somalia"
+"Mount Elgon Aquifer	1101","N","AF39","Uganda, Kenya"
+"Rhyolite-Breccia Aquifer	1101","N","AF4","South Africa, Swaziland, Mozambique"
+"AF40	1101","N","AF40","Congo, Gabon"
+"Rio DelRey	1101","N","AF42","Nigeria, Cameroon"
+"Dawa	1101","N","AF43","Ethiopia, Kenya, Somalia"
+"Jubba	1101","N","AF44","Ethiopia, Somalia"
+"Shabelle	1101","N","AF45","Ethiopia, Somalia"
+"Sudd Basin	1101","N","AF46","Ethiopia, Kenya, South Sudan"
+"Tano Basin	1101","N","AF47","Ghana, Cote d''Ivoire"
+"Keta / Dahomey / Cotier Basin Aquifer	1101","N","AF48","Ghana, Togo, Benin, Nigeria"
+"Cestos - Danané Aquifer	1101","N","AF49","Cote d''Ivoire, Guinea, Liberia"
+"Stampriet Aquifer System	1101","N","AF5","Botswana, Namibia, South Africa"
+"Aquifer Vallee de la Benoue	1101","N","AF51","Nigeria, Cameroon"
+"Baggara Basin	1101","N","AF53","Central African Republic, South Sudan, Sudan"
+"Volta Basin	1101","N","AF54","Benin, Burkina Faso, Ghana, Togo, Niger"
+"Irhazer-Illuemeden Basin	1101","N","AF56","Algeria, Benin, Mali, Niger, Nigeria"
+"Afar Rift valley / Afar Triangle Aquifer	1101","N","AF59","Djibouti, Ethiopia"
+"Khakhea/Bray Dolomite	1101","N","AF6","Botswana, South Africa"
+"Gedaref	1101","N","AF61","Ethiopia, Sudan"
+"Disa	1101","N","AF62","Chad, Sudan"
+"Nubian Sandstone Aquifer System (NSAS)	1101","N","AF63","Chad, Egypt, Libya, Sudan"
+"Taoudeni Basin	1101","N","AF64","Algeria, Mali, Mauritania"
+"Système Aquifère de Tindouf	1101","N","AF68","Morocco, Western Sahara, Mauritania, Algeria"
+"Northwest Sahara Aquifer System (NWSAS)	1101","N","AF69","Algeria, Libya"
+"Zeerust / Lobatse / Ramotswa Dolomite Basin Aquifer	1101","N","AF7","Botswana , South Africa"
+"Système Aquifère d''Errachidia	1101","N","AF70","Morocco, Algeria"
+"Ncojane Basin	1101","N","AF71","Botswana, Namibia"
+"Rift Aquifer	1101","N","AF72","Kenya, Tanzania"
+"Mereb	1101","N","AF73","Ethiopia, Eritrea"
+"Angad	1101","N","AF74","Morocco, Algeria"
+"Ain Beni Mathar	1101","N","AF75","Morocco, Algeria"
+"Chott Tigri-Lahouita	1101","N","AF76","Morocco, Algeria"
+"Figuig	1101","N","AF77","Morocco, Algeria"
+"Jbel El Hamra	1101","N","AF78","Morocco, Algeria"
+"Système Aquifère de la Djeffara	1101","N","AF79","Tunisia, Libya"
+"Limpopo Basin	1101","N","AF8","Mozambique, South Africa, Zimbabwe"
+"Triffa	1101","N","AF80","Morocco, Algeria"
+"AF82	1101","N","AF82","Gabon, Congo"
+"Aquifer extension Sud-Est de Taoudeni	1101","N","AF88","Mali, Guinea, Burkina Faso"
+"Tuli Karoo Sub-Basin	1101","N","AF9","Botswana, South Africa, Zimbabwe"
+"Western Aquifer Basin	1101","N","AS1","Egypt, Israel, Palestinian Territory"
+"Upper Jezira	1101","N","AS10","Iraq, Syria, Turkey"
+"Minj River Basin	1101","N","AS100","Mongolia, Russia"
+"Balj River Basin	1101","N","AS101","Mongolia, Russia"
+"Onon River Basin	1101","N","AS102","Mongolia, Russia"
+"Ulz River Basin	1101","N","AS103","Mongolia, Russia"
+"Ercguna River	1101","N","AS104","China, Russia"
+"Zeya River Basin	1101","N","AS105","China, Russia"
+"Herlen River Basin	1101","N","AS106","Mongolia, China"
+"Buir Nuur-Khalkha river Aquifer	1101","N","AS108","Mongolia, China"
+"Zamiin-Uud Basin	1101","N","AS109","Mongolia, China"
+"Syrt	1101","N","AS11","Russia, Kazahstan"
+"Onch Kharikhanii Sair Aquifer	1101","N","AS110","Mongolia, China"
+"Dankhan Khudgiin Sair Aquifer	1101","N","AS111","Mongolia, China"
+"Kabul River Aquifer	1101","N","AS113","Pakistan, Afghanistan"
+"Yalu River Basin	1101","N","AS114","China, Democratic People''s Republic of Korea"
+"Southern of Himalaya Mountains	1101","N","AS116","India, Bhutan"
+"Mid of Brahmaputra River	1101","N","AS117","India, China"
+"Lower Mekong River 1 Aquifer	1101","N","AS118","Myanmar, Thailand, Laos"
+"Karst Aquifer of Upper Zuojiang Valley	1101","N","AS119","China, Vietnam"
+"Leninak-Shiraks Aquifer	1101","N","AS12","Azerbaijan, Armenia, Iran, Turkey"
+"Beilun River Basin	1101","N","AS120","China, Vietnam"
+"Kura River Valley Aquifer	1101","N","AS122","Azerbaijan, Georgia"
+"Taurus-Zagros	1101","N","AS123","Iran, Iraq, Turkey"
+"Jezira Tertiary Limestone Aquifer System	1101","N","AS124","Syria, Turkey"
+"Neogene Aquifer System (North-West): Upper and Lower Fars	1101","N","AS125","Syrian Arab Republic, Iraq"
+"Saq-Ram Aquifer System (West)	1101","N","AS126","Jordan, Saudi Arabia"
+"Wasia-Biyadh-Aruma Aquifer System (North): Sakaka-Rutba	1101","N","AS127","Saudi Arabia, Iraq"
+"Neogene Aquifer System (South-East): Dibdibba-Kuwait Group	1101","N","AS128","Iraq, Kuwait, Saudi Arabia"
+"Tawil Quaternary Aquifer System: Wadi Sirhan Basin	1101","N","AS129","Jordan, Saudi Arabia"
+"Terek Aquifer	1101","N","AS13","Georgia, Russia"
+"Umm er Radhuma-Dammam Aquifer System (North): Widyan-Salman	1101","N","AS130","Iraq, Kuwait, Saudi Arabia"
+"Wajid Aquifer System	1101","N","AS131","Saudi Arabia, Yemen"
+"Sarakhs	1101","N","AS132","Turkmenistan, Iran"
+"Agh Darband	1101","N","AS133","Afghanistan, Iran"
+"Janat Abad-Saleh Abad	1101","N","AS134","Afghanistan, Turkmenistan, Iran"
+"Fariman-Torbatjam	1101","N","AS135","Afghanistan, Iran"
+"Taybad	1101","N","AS136","Afghanistan, Iran"
+"Karet	1101","N","AS137","Afghanistan, Iran"
+"Tes River Basin	1101","N","AS138","Mongolia, Russia"
+"Wasia-Biyadh-Aruma Aquifer System (South): Tawila-Mahra/Cretaceous Sands	1101","N","AS139","Saudi Arabia, Yemen"
+"Umm er Radhuma-Dammam Aquifer System (Centre): Gulf	1101","N","AS140","Saudi Arabia, United Arab Emirates, Bahrain, Qatar"
+"Umm  er Radhuma-Dammam Aquifer System (South): Rub'' al Khali	1101","N","AS141","Oman, Saudi Arabia, United Arab Emirates, Yemen"
+"Basalt Aquifer System (West): Yarmouk Basin	1101","N","AS142","Jordan, Syria"
+"Basalt Aquifer System (South): Azraq-Dhuleil Basin	1101","N","AS143","Jordan, Syria"
+"Debet Aquifer	1101","N","AS15","Azerbaijan, Armenia, Georgia"
+"Irtysh-Obsky	1101","N","AS150","Russia, Kazakhstan"
+"Limbang Aquifer	1101","N","AS151","Malaysia, Brunei Darussalam"
+"Golok Aquifer	1101","N","AS152","Thailand, Malaysia"
+"Baram Aquifer	1101","N","AS153","Malaysia, Indonesia, Brunei Darussalam"
+"Palah Basin Aquifer	1101","N","AS154","Malaysia, Indonesia"
+"Jayapura Basin Aquifer	1101","N","AS155","Indonesia, Papua New Guinea"
+"Besikama Basin Aquifer	1101","N","AS156","Indonesia, Timor - Leste"
+"Ktsia-Khrami Aquifer	1101","N","AS16","Azerbaijan, Georgia"
+"Agstev-Akstafa/Tavush-Tovuz Aquifer	1101","N","AS17","Azerbaijan, Azerbaijan, Armenia"
+"Alazan-Agrichay Aquifer	1101","N","AS18","Azerbaijan, Georgia"
+"Pre-Caspien	1101","N","AS19","Russia, Kazakhstan"
+"Coastal Aquifer Basin	1101","N","AS2","Egypt, Israel, Palestinian Territory"
+"Sulak Aquifer	1101","N","AS20","Georgia, Russia"
+"Nakhichevan/Larijan and Djebrail Aquifer	1101","N","AS21","Azerbaijan, Armenia, Georgia, Iran, Turkey, Russia"
+"Herher, Malishkin and Jermuk Aquifers	1101","N","AS22","Azerbaijan, Armenia"
+"Vorotan-Akora Aquifer	1101","N","AS23","Azerbaijan, Armenia"
+"Nakhichevan/Larijan and Djebrail Aquifer	1101","N","AS24","Azerbaijan, Armenia, Georgia, Iran, Turkey, Russia"
+"Iori/Gabirri Aquifer	1101","N","AS25","Azerbaijan, Russia"
+"Lenkoran/Astara	1101","N","AS26","Azerbaijan, Iran"
+"Samur Aquifer	1101","N","AS27","Azerbaijan, Russia"
+"Northeastern Aquifer	1101","N","AS3","Israel, Palestinian Territory"
+"South-Pred-Ural Aquifer	1101","N","AS31","Kazakhstan, Russia"
+"Amu-Darya	1101","N","AS35","Uzbekistan, Kazakhstan, Turkmenistan"
+"Syr Darya	1101","N","AS36","Kazakhstan, Uzbekistan"
+"Birata-Urgench	1101","N","AS37","Uzbekistan, Turkmenistan"
+"Anti-Lebanon	1101","N","AS4","Lebanon, Syria"
+"Sherabad	1101","N","AS40","Uzbekistan, Turkmenistan"
+"Amudaryia	1101","N","AS41","Afghanistan, Tajikistan, Uzbekistan"
+"Kofarnihon Aquifer	1101","N","AS42","Tajikistan, Uzbekistan"
+"Karatag/North-Surhandarya Aquifer	1101","N","AS43","Tajikistan, Uzbekistan"
+"Zeravshan Aquifer	1101","N","AS44","Tajikistan, Uzbekistan"
+"Dustlik	1101","N","AS45","Tajikistan, Uzbekistan, Kazakhstan"
+"Havost	1101","N","AS46","Tajikistan, Uzbekistan"
+"Pretashkent Aquifer	1101","N","AS47","Kazakhstan, Uzbekistan"
+"Zafarobod Aquifer	1101","N","AS48","Tajikistan, Uzbekistan"
+"Syr-Darya 3	1101","N","AS49","Tajikistan, Uzbekistan"
+"Kokaral	1101","N","AS50","Tajikistan, Uzbekistan"
+"Dalverzin Aquifer	1101","N","AS51","Tajikistan, Uzbekistan"
+"Ahangaran	1101","N","AS52","Tajikistan, Uzbekistan"
+"Sulyukta-Batken-Nau-Isfara Aquifer	1101","N","AS53","Tajikistan, Uzbekistan"
+"South Talas Aquifer	1101","N","AS54","Kazakhstan, Kyrgyzstan"
+"North Talas Aquifer	1101","N","AS55","Kazakhstan, Kyrgyzstan"
+"Chust-Pap Aquifer	1101","N","AS56","Tajikistan, Uzbekistan"
+"Shorsu Aquifer	1101","N","AS57","Tajikistan, Kyrgyzstan, Uzbekistan"
+"Sokh Aquifer	1101","N","AS58","Kyrgyzstan, Uzbekistan"
+"Syr-Darya 2	1101","N","AS59","Tajikistan, Uzbekistan"
+"Almos-Vorzik Aquifer	1101","N","AS60","Kyrgyzstan, Uzbekistan"
+"Kasansay Aquifer	1101","N","AS61","Kyrgyzstan, Uzbekistan"
+"Nanay	1101","N","AS62","Kyrgyzstan, Uzbekistan"
+"Iskovat-Pishkaran Aquifer	1101","N","AS63","Kyrgyzstan, Uzbekistan"
+"Naryn Aquifer	1101","N","AS64","Kyrgyzstan, Uzbekistan"
+"Yarmazar	1101","N","AS65","Kyrgyzstan, Uzbekistan"
+"Chimion-Aval	1101","N","AS66","Kyrgyzstan, Uzbekistan"
+"Maylusu Aquifer	1101","N","AS67","Kyrgyzstan, Uzbekistan"
+"Karaungur	1101","N","AS68","Kyrgyzstan, Uzbekistan"
+"Osh-Aravan Aquifer	1101","N","AS69","Kyrgyzstan, Uzbekistan"
+"Vakhsh Aquifer	1101","N","AS70","Afghanistan, Tajikistan"
+"Chu Basin	1101","N","AS71","Kyrgyzstan, Kazakhstan"
+"Illi River	1101","N","AS72","Kazakhstan, China"
+"Tacheng Basin / Alakol	1101","N","AS74","Kazakhstan, China"
+"Ertix River	1101","N","AS76","Kazakhstan, China"
+"Yenisei Upstream	1101","N","AS77","Mongolia, Russia"
+"Indus River Plain Aquifer	1101","N","AS78","Pakistan, India"
+"South of outer Himalayas Aquifer	1101","N","AS79","India, Nepal"
+"Psou Aquifer	1101","N","AS8","Georgia, Russia"
+"East Ganges River Plain Aquifer	1101","N","AS80","Bangladesh, India"
+"Nu River Valley Aquifer	1101","N","AS81","Burma, China"
+"Salween River Aquifer	1101","N","AS82","Myanmar, Thailand"
+"Upriver of Zuo River	1101","N","AS83","China, Vietnam"
+"Yalu River Valley	1101","N","AS86","China, Democratic People''s Republic of Korea"
+"Middle Heilongjiang - Amur River Basin	1101","N","AS87","China, Russia"
+"Merauke - Ketu Basin Aquifer	1101","N","AS88","Indonesia, Papua New Guinea"
+"Cambodia Mekong River Delta Aquifer	1101","N","AS89","Cambodia, Vietnam"
+"Khorat Plateau Aquifer	1101","N","AS90","Laos, Thailand"
+"Lower Mekong River 2 Aquifer	1101","N","AS91","Thailand, Laos, Vietnam"
+"Hong River Basin	1101","N","AS92","China, Vietnam"
+"Downstream of Lancang River	1101","N","AS93","China, Myanmar"
+"Bulgan River	1101","N","AS94","Mongolia, China"
+"Uureg Aquifer	1101","N","AS95","Mongolia, Russia"
+"Shishhid River Aquifer	1101","N","AS96","Mongolia, Russia"
+"Delger River	1101","N","AS97","Russia, Mongolia"
+"Zelter Basin	1101","N","AS98","Mongolia, Russia"
+"Secovlje-Dragonja/Istra Aquifer	1101","N","EB1","Croatia, Slovenia"
+"Cerknica/ Kupa, Kocevje Goteniška, Radovica-Metlika/ Zumberak Aquifers	1101","N","EB10 - EB12","Croatia, Slovenia"
+"Ormoz-Sredisce ob Drava/Drava-Varazdin Aquifer	1101","N","EB13","Croatia, Slovenia"
+"Bregana Aquifer; Bregana-Obrezje/Sava- Samobor	1101","N","EB14; EB15","Croatia, Slovenia"
+"Bizeljsko/ Sutla, Boc, Rogaška, Atomske toplice, Bohor, Orlica Aquifers	1101","N","EB16 - EB21","Croatia, Slovenia"
+"Mirna/Istra Aquifer; Mirna Aquifer; Obmocje izvira Rižane Aquifer	1101","N","EB2 - EB4","Croatia, Slovenia"
+"Dolinsko-Ravensko/ Mura Aquifer	1101","N","EB22","Croatia, Slovenia"
+"Kupa Aquifer	1101","N","EB23","Bosnia and Herzegovina, Croatia"
+"Una	1101","N","EB24","Bosnia and Herzegovina, Croatia"
+"Krka	1101","N","EB25","Bosnia and Herzegovina, Croatia"
+"Cetina	1101","N","EB26","Bosnia and Herzegovina, Croatia"
+"Neretva	1101","N","EB27","Bosnia and Herzegovina, Croatia"
+"Trebišnjica	1101","N","EB28","Bosnia and Herzegovina, Croatia"
+"Dinaric Littoral (West Coast aquifer)	1101","N","EB29","Bosnia and Herzegovina, Croatia, Montenegro"
+"Bilecko Lake	1101","N","EB30","Bosnia and Herzegovina, Montenegro"
+"Posavina I/Sava Aquifer	1101","N","EB31","Bosnia and Herzegovina, Croatia"
+"Srem-West Srem/Sava Aquifer	1101","N","EB32","Croatia, Serbia"
+"South Western Backa/Dunav Aquifer	1101","N","EB33","Croatia, Serbia"
+"Mura Aquifer	1101","N","EB34","Croatia, Hungary"
+"Drava/ Drava West Aquifer	1101","N","EB35","Croatia, Hungary"
+"Northeast Backa/Danube -Tisza Interfluve or Backa/Danube-Tisza Interfluve Aquifer	1101","N","EB36","Croatia, Hungary"
+"Northeast Backa/Danube -Tisza Interfluve Aquifer	1101","N","EB38","Croatia, Hungary, Romania, Serbia"
+"Skadar/Shkoder Lake, Dinaric East Coast Aquifer	1101","N","EB44","Albania, Montenegro"
+"North and South Banat or North and Mid Banat Aquifer	1101","N","EB45","Hungary, Romania, Serbia"
+"Macva-Semberija Aquifer	1101","N","EB48","Bosnia and Herzegovina, Serbia"
+"Tara Massif	1101","N","EB49","Bosnia and Herzegovina, Serbia"
+"Opatija/Istra Aquifer; Notranjska Reka Aquifer	1101","N","EB5; EB6","Croatia, Slovenia"
+"Lim Aquifer	1101","N","EB50","Montenegro, Serbia"
+"Pester Aquifer	1101","N","EB51","Montenegro, Serbia"
+"Metohija Aquifer	1101","N","EB52","Montenegro, Serbia"
+"Beli Drim/Drini Bardhe Aquifer	1101","N","EB53","Albania, Serbia"
+"Tetovo-Gostivar	1101","N","EB54","Macedonia, Serbia"
+"Korab/Bistra-Stogovo Aquifer	1101","N","EB55","Albania, Macedonia"
+"Jablanica/Golobordo Aquifer	1101","N","EB56","Albania, Macedonia"
+"Prespa and Ohrid Lake Aquifer	1101","N","EB57","Albania, Greece, Macedonia"
+"Mourgana Mountain/ Mali Gjere Aquifer	1101","N","EB59","Albania, Greece"
+"Nemechka/Vjosa-Pogoni Aquifer	1101","N","EB61","Albania, Greece"
+"Pelagonia- Florina/Bitolsko Aquifer	1101","N","EB62","Greece, Macedonia"
+"Axiou System	1101","N","EB63","Greece, Macedonia"
+"Sandansky-Petrich Aquifer ; Sandansky Valley Aquifer ; Petrich Valley Aquifer	1101","N","EB67 - EB69","Bulgaria, Greece, Macedonia"
+"FYROM-Central Serbia	1101","N","EB70","Macedonia, Serbia"
+"FYROM-SW Serbia	1101","N","EB71","Macedonia, Serbia"
+"Zemen	1101","N","EB72","Bulgaria, Serbia"
+"Stara Planina/ Salasha Montana Aquifer	1101","N","EB73","Bulgaria, Serbia"
+"Miroc & Golubac	1101","N","EB75","Romania, Serbia"
+"Dacian Basin	1101","N","EB76","Romania, Serbia"
+"Rijecina-Zvir Aquifer; Novokracine Aquifer	1101","N","EB8; EB9","Croatia, Slovenia"
+"Evros/Meric	1101","N","EB82","Greece, Turkey"
+"Topolovgrad Massif Aquifer	1101","N","EB85","Bulgaria, Turkey"
+"Malko Tarnovo Kasrt Waterbearing Massif	1101","N","EB86","Bulgaria, Turkey"
+"Danube-Prut	1101","N","EB89","Romania, Moldova, Ukraine"
+"Middle Sarmantian Pontian Aquifer	1101","N","EB90","Romania, Moldova, Ukraine"
+"Prut	1101","N","EB91","Romania, Moldova"
+"Piva	1101","N","EB92","Montenegro, Bosnia and Herzegovina"
+"Cijevna	1101","N","EB93","Montenegro, Albania"
+"Detrital Aquifer of the Guadiana Middle Basin	1101","N","EU10","Portugal, Spain"
+"Ordivician - Cambrian Groundwater Body	1101","N","EU108","Estonia, Russia"
+"Cambrian - Vendian - Voronka Groundwater Body / Lomonosovsky Aquifer	1101","N","EU109","Estonia, Russia"
+"Upper Devonian terrigenous-Carbonate Aquifer	1101","N","EU112","Belarus, Russia"
+"Kanunkankaat Aquifer	1101","N","EU123","Finland, Russia"
+"Upper Pannonian Thermal Aquifer	1101","N","EU282","Slovakia, Austria, Hungary, Slovenia"
+"Belgian - Dutch - German Lowland Aquifer System	1101","N","EU283","Belgium, Netherlands, Germany"
+"Goricko; Mura - Zala basin/Radgona -Vaš aquifer; Kot aquifer	1101","N","EU73","Austria, Croatia, Hungary, Slovenia"
+"Dniester	1101","N","EU85","Moldova, Ukraine"
+"Paleogene-Neogene terringenous Aquifer; Cenomanian carbonate-terrigenous Aquifer	1101","N","EU87 EU94","Belarus, Ukraine"
+"Cenomanian terringeous Aquifer; Upper Proterozoic terringenous Aquifer; Pripyat	1101","N","EU88 EU89 EU86","Belarus, Ukraine"
+"Alluvial/Paleogene-Neogene and Oxfordian - Cenomanien aquifers	1101","N","EU91 EU92 EU93","Poland, Belarus, Ukraine"
+"Daugava	1101","N","EU99","Latvia, Belarus, Lithuania, Russia"

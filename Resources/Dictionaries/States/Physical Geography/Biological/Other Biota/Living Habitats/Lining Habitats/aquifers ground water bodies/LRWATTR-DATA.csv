@@ -1,0 +1,5 @@
+"COLUMNNAME","COLUMNTITLE","COLUMNTYPE","MATCH","POSSIBLEVALUES","MAXLENGTH","GLOSS","FIELD","DEFAULT","DEFAULTIFMISSING","VALIDATE","UIMAFEATURE","UIMADESCRIPTION","COLUMNORDER","COLUMNWIDTH"
+"COL1","aquifers ground water bodies","NormalForm","false","","30000","CutPasteGloss","Lemma","1101","","notnull","","","1","130",
+"COL2","Part of Speech","Keyword","false","X=Unknown,P=Pronoun,V=Verb,N=Noun,J=Adjective,A=Adverb,R=Adposition,I=Interjection,C=Conjunction,D=Determiner,Q=Quantifier","255","FeatureSetGloss","WordClass","N","","","","","2","130",
+"COL3","IGRAC Label","String","false","","20","user.aquifers_ground_water_bodiesGloss","IGRAC_Label","","","","iGRAC_Label","","3","100",
+"COL4","Country","String","false","","50","user.aquifers_ground_water_bodiesGloss","Country","","","","country","","4","100",
