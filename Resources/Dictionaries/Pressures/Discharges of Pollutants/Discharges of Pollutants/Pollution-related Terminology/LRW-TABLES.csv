@@ -1,0 +1,2 @@
+"TABLE_NAME","TABLE_TYPE","BUILD_TYPE","GLOSS","UIMA_TYPENAME","UIMA_TYPEDESC","UIMA_SUPERTYPE","DISPLAY_NAME","SORTBY"
+"DATA","SurfaceformList","","MidGloss","com.menRISA.Pollution_related_Terminology","Pollution-related Terminology","uima.tt.DictionaryEntryAnnotation","Pollution-related Terminology","COL1,COL2"
