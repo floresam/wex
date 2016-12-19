@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
-  <name>agriculture_crops-ts</name>
+  <name>Agriculture Crops-ts</name>
   <description>agriculture_crops</description>
   <version></version>
   <vendor></vendor>

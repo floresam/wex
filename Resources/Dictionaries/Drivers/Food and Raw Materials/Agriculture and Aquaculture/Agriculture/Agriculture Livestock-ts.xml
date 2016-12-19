@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
-  <name>agriculture_livestock-ts</name>
+  <name>Agriculture Livestock-ts</name>
   <description>agriculture_livestock</description>
   <version></version>
   <vendor></vendor>
