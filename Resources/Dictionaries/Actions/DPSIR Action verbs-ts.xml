@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+    <types>
+        <typeDescription>
+            <name>com.menRISA.Epa_dpsir_relations</name>
+            <description>epa_dpsir_relations</description>
+            <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>com.menRISA.Relation_driver_to_pressure</name>
+            <description>relation_driver_to_pressure</description>
+            <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>com.menRISA.Relation_state</name>
+            <description>relation_state</description>
+            <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>com.menRISA.Response_verbs</name>
+            <description>response verbs</description>
+            <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>com.menRISA.Response_verbs_relationships</name>
+            <description>response verbs relationships</description>
+            <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+        </typeDescription>
+        <typeDescription>
+            <name>com.menRISA.Verbs_positive_impacts</name>
+            <description>verbs positive impacts</description>
+            <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+        </typeDescription>
+    </types>
+</typeSystemDescription>
