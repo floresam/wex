@@ -1,0 +1,2 @@
+"TABLE_NAME","TABLE_TYPE","BUILD_TYPE","GLOSS","UIMA_TYPENAME","UIMA_TYPEDESC","UIMA_SUPERTYPE","DISPLAY_NAME","SORTBY"
+"DATA","SurfaceformList","","MidGloss","com.menRISA.Climate_impacts","climate_impacts","uima.tt.DictionaryEntryAnnotation","climate_impacts","COL1,COL2"

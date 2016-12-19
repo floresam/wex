@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
-  <name>economic terms-ts</name>
+  <name>Economic Terms-ts</name>
   <description>economic terms</description>
   <version></version>
   <vendor></vendor>

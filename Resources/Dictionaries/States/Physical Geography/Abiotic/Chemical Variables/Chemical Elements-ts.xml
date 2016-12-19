@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>Chemical Elements-ts</name>
+  <description>chemical elements</description>
+  <version></version>
+  <vendor></vendor>
+  <types>
+    <typeDescription>
+      <name>com.menRISA_WSI_Project.Chemical_elements</name>
+      <description>chemical elements</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>chemical_properties</name>
+          <description></description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>groups</name>
+          <description></description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>periods</name>
+          <description></description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        </features>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

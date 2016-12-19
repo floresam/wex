@@ -1,0 +1,2 @@
+"TABLE_NAME","TABLE_TYPE","BUILD_TYPE","GLOSS","UIMA_TYPENAME","UIMA_TYPEDESC","UIMA_SUPERTYPE","DISPLAY_NAME","SORTBY"
+"DATA","SurfaceformList","","MidGloss","com.menRISA.Epa_dpsir_response_ecosystem_monitor_restore","epa dpsir response ecosystem monitor restore","uima.tt.DictionaryEntryAnnotation","epa dpsir response ecosystem monitor restore","COL1,COL2"

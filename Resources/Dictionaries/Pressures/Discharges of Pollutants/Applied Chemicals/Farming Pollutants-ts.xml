@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
   <name>Farming Pollutants-ts</name>
-  <description>Farming Pollutants</description>
+  <description>farming pollutants</description>
   <version></version>
   <vendor></vendor>
   <types>
     <typeDescription>
-      <name>com.menRISA.Farming_Pollutants</name>
-      <description>Farming Pollutants</description>
+      <name>com.menRISA.Farming_pollutants</name>
+      <description>farming pollutants</description>
       <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
     </typeDescription>
     </types>

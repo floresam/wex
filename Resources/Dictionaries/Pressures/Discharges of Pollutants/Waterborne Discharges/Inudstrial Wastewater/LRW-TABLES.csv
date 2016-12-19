@@ -1,0 +1,2 @@
+"TABLE_NAME","TABLE_TYPE","BUILD_TYPE","GLOSS","UIMA_TYPENAME","UIMA_TYPEDESC","UIMA_SUPERTYPE","DISPLAY_NAME","SORTBY"
+"DATA","SurfaceformList","","MidGloss","com.menRISA.Industrial_wastewater","industrial_wastewater","uima.tt.DictionaryEntryAnnotation","industrial_wastewater","COL1,COL2"

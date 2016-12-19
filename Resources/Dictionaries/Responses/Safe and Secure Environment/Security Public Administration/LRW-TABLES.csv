@@ -1,0 +1,2 @@
+"TABLE_NAME","TABLE_TYPE","BUILD_TYPE","GLOSS","UIMA_TYPENAME","UIMA_TYPEDESC","UIMA_SUPERTYPE","DISPLAY_NAME","SORTBY"
+"DATA","SurfaceformList","","MidGloss","com.menRISA.Epa_dpsir_response_security_pub_admin","epa dpsir response security pub admin","uima.tt.DictionaryEntryAnnotation","epa dpsir response security pub admin","COL1,COL2"

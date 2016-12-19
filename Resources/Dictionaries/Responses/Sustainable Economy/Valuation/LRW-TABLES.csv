@@ -1,0 +1,2 @@
+"TABLE_NAME","TABLE_TYPE","BUILD_TYPE","GLOSS","UIMA_TYPENAME","UIMA_TYPEDESC","UIMA_SUPERTYPE","DISPLAY_NAME","SORTBY"
+"DATA","SurfaceformList","","MidGloss","com.menRISA.Epa_dpsir_response_valuation","epa dpsir response valuation","uima.tt.DictionaryEntryAnnotation","epa dpsir response valuation","COL1,COL2"
