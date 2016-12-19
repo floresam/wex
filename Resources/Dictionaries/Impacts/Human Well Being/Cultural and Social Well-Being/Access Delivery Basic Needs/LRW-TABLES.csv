@@ -1,0 +1,2 @@
+"TABLE_NAME","TABLE_TYPE","BUILD_TYPE","GLOSS","UIMA_TYPENAME","UIMA_TYPEDESC","UIMA_SUPERTYPE","DISPLAY_NAME","SORTBY"
+"DATA","SurfaceformList","","MidGloss","com.menRISA.Access_Delivery_Basic_Needs","Access Delivery Basic Needs","uima.tt.DictionaryEntryAnnotation","Access Delivery Basic Needs","COL1,COL2"
