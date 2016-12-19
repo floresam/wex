@@ -1,0 +1,2 @@
+"TABLE_NAME","TABLE_TYPE","BUILD_TYPE","GLOSS","UIMA_TYPENAME","UIMA_TYPEDESC","UIMA_SUPERTYPE","DISPLAY_NAME","SORTBY"
+"DATA","SurfaceformList","","MidGloss","com.menRISA_WSI_Project.Brazil_Languages","Brazil Languages","uima.tt.DictionaryEntryAnnotation","Brazil Languages","COL1,COL2"
