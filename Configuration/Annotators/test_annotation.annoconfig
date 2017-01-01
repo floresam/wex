@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="annotation">
 	<item value="en" key="language"/>
-	<item value="1481819116616" key="lastModified"/>
+	<item value="1482169763280" key="lastModified"/>
 	<item value="4" key="version"/>
 	<list key="steps">
 		<item value="langid.0"/>
 		<item value="languageware.1"/>
-		<item value="typecleanup.3"/>
+		<item value="typecleanup.2"/>
 	</list>
 	<section name="exportPearData">
 		<item value="false" key="cca"/>
@@ -20,6 +20,155 @@
 		<list key="dictPaths.7">
 			<item value="${lw_lex_dictionary_path:en}"/>
 			<item value="${lw_oov_dictionary_path:en}"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Actions}/DPSIR Action verbs.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Actions}/Water accessibility actions.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Actions}/Water availability actions.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Actions}/Water quantity actions.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Culture/Information/Information Actors}/Media Actors.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Culture/Tourism - Recreation/Tourism - Recreation}/Brazil Accommodation Industry.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Culture/Tourism - Recreation/Tourism - Recreation}/Brazil Arts - Entertainment.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Culture/Tourism - Recreation/Tourism - Recreation}/Brazil Food Service Industry.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Culture/Tourism - Recreation/Tourism - Recreation}/Recreation Terminology.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Culture/Tourism - Recreation/Tourism Recreation Actors}/Brazil Food Service Companies.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Food and Raw Materials/Agriculture and Aquaculture/Agriculture}/Agriculture Crops.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Food and Raw Materials/Agriculture and Aquaculture/Agriculture}/Agriculture Livestock.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Food and Raw Materials/Agriculture and Aquaculture/Agriculture}/Brazil Agriculture Crops.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Food and Raw Materials/Agriculture and Aquaculture/Agriculture}/Brazil Agriculture Livestock.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Food and Raw Materials/Forestry}/Brazil Lumber Industry.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Food and Raw Materials/Forestry}/Forestry.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Food and Raw Materials/Mining and Quarrying}/Brazil Mining Industry.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Food and Raw Materials/Recreational and Commercial Fishing}/Brazil Fishing.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Health/Midical Care}/Brazil Human Health Industry.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Health/Social Assistance}/Brazil Social Work Activities.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Health/Waste Management}/Brazil Sewerage - Wast Mgt.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Health/Waste Management}/Sanitation Systems.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Health/Waste Management}/Sewage System.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Health/Waste Management}/Water Treatment.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Infrastructure/Construction and Civil Engineering}/Brazil Construction Industry.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Infrastructure/Finance and Insurance/Finance Insurance Actors}/Brazil Banks.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Infrastructure/Manufacturing and Trade}/Brazil Aircraft Industry.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Infrastructure/Manufacturing and Trade}/Brazil Cement Industry.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Infrastructure/Manufacturing and Trade}/Brazil Chemical Industry.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Infrastructure/Manufacturing and Trade}/Brazil Industrial Equipment Industry.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Infrastructure/Manufacturing and Trade}/Brazil Steel Industry.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Infrastructure/Transportatiion}/Brazil Automotive Industry.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Infrastructure/Utilities/Utilities}/Brazil Energy Infrastructure.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Infrastructure/Utilities/Utilities}/Brazil Hydropower.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Infrastructure/Utilities/Utilities}/Brazil Public Works - Utilities.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Infrastructure/Utilities/Utilities Actors}/Brazil Energy Utility Companies.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Infrastructure}/Infrastructure Actions.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Security/Public Administration/Public Admin Actors}/Brazil Cabinet.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Security/Public Administration/Public Admin Actors}/Brazil Govt Interior Orgs.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Security/Public Administration/Public Admin Actors}/Political Actors.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Security/Public Administration/Public Admin Actors}/World Leaders.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Security/Public Administration}/Brazil Municipalities.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Shelter/Textiles and Apparel}/Brazil Footwear Industry.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Shelter/Textiles and Apparel}/Brazil Textile Industry.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Water/Drinking Water Supply}/Brazil Well Drilling.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Water/Drinking Water Supply}/Water Sources.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Water/Drinking Water Supply}/Water Storage.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Water/Irrigation}/Irrigation Systems.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Impacts/Ecosystem Services/Cultural}/Ecosystem Services Cultural.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Impacts/Ecosystem Services/Provisioning}/Ecosystem Services Provisioning.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Impacts/Ecosystem Services/Regulating}/Ecosystem Services Regulating.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Impacts/Ecosystem Services/Supporting}/Ecosystem Services Supporting.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Impacts/Human Well Being/Cultural and Social Well-Being}/Access Delivery Basic Needs.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Discharges of Pollutants/Applied Chemicals}/Farming Pollutants.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Discharges of Pollutants/Discharges of Pollutants}/Pollution-related Terminology.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Discharges of Pollutants/Waterborne Discharges}/Industrial Wastewater Sources.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Discharges of Pollutants/Waterborne Discharges}/Inudstrial Wastewater.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Land Use Changes/Deforestation}/Deforestation Terminology.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Shocks and Risks/Economic}/Economic Terminology.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Shocks and Risks/Economic}/GDP Terminology.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Shocks and Risks/Economic}/Poverty Terms.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Shocks and Risks/Environmental}/Climate Change.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Shocks and Risks/Environmental}/Climate Impacts.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Shocks and Risks/Environmental}/Extreme Weather Disasters.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Shocks and Risks/Environmental}/Extreme Weather Event Terms.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Shocks and Risks/Geopolitical}/Corruption.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Shocks and Risks/Geopolitical}/Non-traditional Threats.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Establish Rule of Law}/Clean Air Act.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Establish Rule of Law}/Clean Water Act.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Establish Rule of Law}/Discharge Limits.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Establish Rule of Law}/Ecosystem Monitor.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Safe and Secure Environment}/Security Public Administration.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Social Well Being}/Brazil Remediation.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Stable Governance}/Cultural policy.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Stable Governance}/Food energy policy.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Stable Governance}/Health policy.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Stable Governance}/Landuse Mgt.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Stable Governance}/Resource Use.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Stable Governance}/Water Resources Management.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Sustainable Economy}/Green Infrastructure.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Sustainable Economy}/Infrastructure Mgt.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Sustainable Economy}/Innovation.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses/Sustainable Economy}/Valuation.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses}/Hard Water Solutions.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Responses}/Soft Water Solutions.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment/Admin Divisions}/Admin Divisions Paraguay.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment/Admin Divisions}/Admin Divisions Uruguay.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment/Districts}/Paraguay Districts.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/At Risk Regions.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/Brazil Major Infrastructure Projects.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/Cities.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/Countries.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/Provinces.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/Small Island Developing States.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/States.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/World Regions.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Chemical Variables}/Chemical Elements.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Chemical Variables}/Inorganic Chemicals.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Chemical Variables}/Nutrients.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Chemical Variables}/Organic Chemicals.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Physical variables}/Atmosphere.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Human/Body Systems}/Infectious Diseases.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Human/Body Systems}/Symptoms.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Human/Body Systems}/Waterbourne Diseases.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Inhabitants}/Amphibians.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Inhabitants}/Birds.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Inhabitants}/Reptiles.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Inhabitants}/Threatened Species.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Aquatic Habitats.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/aquifer transboundary.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/aquifers ground water bodies.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/aquifers SIDS.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Argentina Paraguay Rivers.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Brazil Costal Plains.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Brazil Forests.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Brazil Mountain Ranges.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Brazil Natural Resources.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Brazil Rivers.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Coastal Geo Terms.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Drainage Systems.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Freshwater Ecosystems.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Lakes in Argentina Uruguay Paraguay Bolivia Brazil.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Landscape Condition.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Large Marine Ecosystem.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Natural Vegetation.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Transboundary Lakes.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Transboundary River Basin Names.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Uruguay Rivers.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Valley Characteristics.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/Watershed Inputs.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/World Glaciers.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/World Mountains and Ranges.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats}/World Oceans and Seas.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/Aeolian Processes.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/Dynamic Equilibrium.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/Ecological Terms.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/ecological_terms.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/Fire Regimes.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/Fluvial Processes.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/Geomorphic Processes.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/Glacial Processes.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/Hillslope Procesess.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/Hydrological Regimes.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/Hydrology.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/Igneous Processes.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/Marine Processes.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/Tectonic Processes.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries}/Months.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries}/Who What Caused Problem.dic"/>
 		</list>
 		<list key="extraConfigGroups">
 			<item value=""/>
@@ -44,6 +193,7 @@
 			<item value="pl"/>
 			<item value="pt"/>
 			<item value="ru"/>
+			<item value="sk"/>
 			<item value="sv"/>
 			<item value="tr"/>
 			<item value="zh"/>
@@ -69,6 +219,7 @@
 			<item value="pl"/>
 			<item value="pt"/>
 			<item value="ru"/>
+			<item value="sk"/>
 			<item value="sv"/>
 			<item value="tr"/>
 			<item value="zh"/>
@@ -99,8 +250,10 @@
 			<item value="MaxCharNumPerSentence"/>
 			<item value="MaxCharNumPerSentence"/>
 			<item value="MaxCharNumPerSentence"/>
+			<item value="MaxCharNumPerSentence"/>
 		</list>
 		<list key="extraConfigDataPathRel">
+			<item value="false"/>
 			<item value="false"/>
 			<item value="false"/>
 			<item value="false"/>
@@ -171,6 +324,10 @@
 			<item value="" key="breakRulesSpec"/>
 			<item value="0" key="breakRulesType"/>
 		</section>
+		<section name="posTagger.23">
+			<item value="false" key="usePosTaggerPath"/>
+			<item value="" key="posTaggerDict"/>
+		</section>
 		<section name="posTagger.1">
 			<item value="false" key="usePosTaggerPath"/>
 			<item value="" key="posTaggerDict"/>
@@ -240,6 +397,10 @@
 			<item value="0" key="breakRulesType"/>
 		</section>
 		<section name="breakRules.22">
+			<item value="" key="breakRulesSpec"/>
+			<item value="0" key="breakRulesType"/>
+		</section>
+		<section name="breakRules.23">
 			<item value="" key="breakRulesSpec"/>
 			<item value="0" key="breakRulesType"/>
 		</section>
@@ -359,7 +520,7 @@
 		<item value="SEARCH" key="ccaCollectionType"/>
 		<item value="0" key="searchCount"/>
 	</section>
-	<section name="typecleanup.3">
+	<section name="typecleanup.2">
 		<item value="false" key="showDiscard"/>
 		<item value="false" key="useMultiplierInPear"/>
 		<list key="extraConfigGroups">
