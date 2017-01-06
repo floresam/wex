@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="annotation">
 	<item value="en" key="language"/>
-	<item value="1482169763280" key="lastModified"/>
+	<item value="1483719355540" key="lastModified"/>
 	<item value="4" key="version"/>
 	<list key="steps">
 		<item value="langid.0"/>
 		<item value="languageware.1"/>
-		<item value="typecleanup.2"/>
+		<item value="afst.2"/>
+		<item value="typecleanup.3"/>
 	</list>
 	<section name="exportPearData">
 		<item value="false" key="cca"/>
@@ -109,12 +110,10 @@
 			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment/Admin Divisions}/Admin Divisions Uruguay.dic"/>
 			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment/Districts}/Paraguay Districts.dic"/>
 			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/At Risk Regions.dic"/>
-			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/Brazil Major Infrastructure Projects.dic"/>
 			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/Cities.dic"/>
 			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/Countries.dic"/>
 			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/Provinces.dic"/>
 			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/Small Island Developing States.dic"/>
-			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/States.dic"/>
 			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/World Regions.dic"/>
 			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Chemical Variables}/Chemical Elements.dic"/>
 			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Chemical Variables}/Inorganic Chemicals.dic"/>
@@ -169,6 +168,37 @@
 			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/Tectonic Processes.dic"/>
 			<item value="${workspace_loc:/menRISA/Resources/Dictionaries}/Months.dic"/>
 			<item value="${workspace_loc:/menRISA/Resources/Dictionaries}/Who What Caused Problem.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Culture/Education/Education}/Access to Education.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Culture/Education/Education Actors}/Universities.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Culture/Social Orgs/Social Orgs Actors}/IGO.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Security/Public Administration/Public Admin}/Brazil state Local Govt Terms.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Security/Public Administration/Public Admin Actors}/Brazil Mayors.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Human Geography/Culture}/Brazil Culture.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Human Geography/Culture}/Brazil Festivals and Holidays.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Human Geography/Demographics}/Brazil Languages.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Human Geography/Demographics}/Brazil Religions.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/Brazil Cities.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/Brazil Municipalities.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Inhabitants}/Mammals.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Actions}/More DPSIR actions.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Culture/Education/Education Actors}/Scientists and experts.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Culture/Social Orgs/Social Orgs Actors}/Social Org Actors.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Impacts}/General Impacts.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Shocks and Risks/Economic}/Currencies.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Security/Public Administration/Public Admin Actors}/Other government actors.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Discharges of Pollutants/Atmospheric Discharges}/Atmosphere discharges.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/US States.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Living Habitats/Living Habitats Processes}/Other processes.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Human Geography/Demographics}/Ethnicities.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Abiotic/Built Environment}/Brazil States.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Human/Body Systems}/General health impacts.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Food and Raw Materials/Agriculture and Aquaculture/Agriculture}/Farming.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Food and Raw Materials/Agriculture and Aquaculture/Agriculture_Actors}/Agriculture_Actors.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Discharges of Pollutants}/Pollution sources.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Pressures/Land Use Changes}/Land use impacts.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/States/Physical Geography/Biological/Other Biota/Inhabitants}/Other inhabitants.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries}/Time.dic"/>
+			<item value="${workspace_loc:/menRISA/Resources/Dictionaries/Drivers/Infrastructure/Construction and Civil Engineering}/Brazil Major Infrastructure Projects.dic"/>
 		</list>
 		<list key="extraConfigGroups">
 			<item value=""/>
@@ -473,6 +503,106 @@
 			<item value="" key="posTaggerDict"/>
 		</section>
 	</section>
+	<section name="afst.2">
+		<list key="rulePaths.7">
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules/States/Physical Geography/Abiotic}/states_physicalGeography_abiotic.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules}/driver_pressure_relates_to_state.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules}/driver_pressure_relation_to_impact.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules}/driver_realted_to_pressure.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules}/Percentage figures.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules}/Population figures.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules}/response lead to positive impact.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules}/Parsing_years.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules/Drivers/Culture/Education/Education Actors}/Parse scientists actions.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules/Pressures/Shocks and Risks/Environmental}/Deforestation_effects.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules}/Area and distance units.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules}/Parse weight units.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules/States/Physical Geography/Biological/Other Biota/Inhabitants}/Regions with species.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules/Impacts/Human Well Being/Cultural and Social Well-Being}/Socail well being impact.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules/Pressures/Land Use Changes/Deforestation}/deforestation_pressures.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules/Pressures/Land Use Changes/Development}/Development impacts.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules}/Dates.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules/Responses}/Soft_water_solutions.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Pressures/Discharges of Pollutants/Dischares Of Poll Utants}/Pollutants effects.jar"/>
+			<item value="${workspace_loc:/menRISA/Resources/Parsing Rules/Egan parsing rules/Responses/Social Well Being}/social well being.jar"/>
+		</list>
+		<list key="extraConfigGroups">
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+			<item value=""/>
+		</list>
+		<list key="extraConfigValue3">
+			<item value="Token,uima.tt.TokenAnnotation"/>
+			<item value="Sentence,uima.tt.SentenceAnnotation"/>
+			<item value="Word,uima.tt.TokenAnnotation"/>
+		</list>
+		<list key="extraConfigValue4">
+			<item value="0"/>
+		</list>
+		<list key="extraConfigValue5">
+			<item value="2400,characters,uima.tt.SentenceAnnotation,firstMatch"/>
+		</list>
+		<list key="extraConfigValue6">
+			<item value="true"/>
+		</list>
+		<list key="extraConfigNames">
+			<item value="SofaNames"/>
+			<item value="NameSpace"/>
+			<item value="IdFeature"/>
+			<item value="MapAnnotationNames"/>
+			<item value="FstMaxLevel"/>
+			<item value="LongTextParameters"/>
+			<item value="TolerateMissingTypes"/>
+			<item value="Focus"/>
+			<item value="RecursiveEngine"/>
+		</list>
+		<list key="extraConfigDataPathRel">
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+			<item value="false"/>
+		</list>
+		<list key="extraConfigValue1">
+			<item value="uima.tt"/>
+		</list>
+		<list key="ruleLanguages">
+			<item value="af"/>
+			<item value="ar"/>
+			<item value="ca"/>
+			<item value="cs"/>
+			<item value="da"/>
+			<item value="de"/>
+			<item value="el"/>
+			<item value="en"/>
+			<item value="es"/>
+			<item value="fr"/>
+			<item value="he"/>
+			<item value="it"/>
+			<item value="ja"/>
+			<item value="ko"/>
+			<item value="nb"/>
+			<item value="nl"/>
+			<item value="nn"/>
+			<item value="pl"/>
+			<item value="pt"/>
+			<item value="ru"/>
+			<item value="sk"/>
+			<item value="sv"/>
+			<item value="tr"/>
+			<item value="zh"/>
+		</list>
+	</section>
 	<section name="langid.0">
 		<item value="2" key="langIdType"/>
 		<item value="" key="userdictFallbackLanguage"/>
@@ -520,7 +650,7 @@
 		<item value="SEARCH" key="ccaCollectionType"/>
 		<item value="0" key="searchCount"/>
 	</section>
-	<section name="typecleanup.2">
+	<section name="typecleanup.3">
 		<item value="false" key="showDiscard"/>
 		<item value="false" key="useMultiplierInPear"/>
 		<list key="extraConfigGroups">

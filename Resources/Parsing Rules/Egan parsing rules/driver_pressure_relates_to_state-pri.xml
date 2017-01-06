@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typePriorities xmlns="http://uima.apache.org/resourceSpecifier">
+  <priorityLists>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.menRISA.Parsing_Driver_Pressure_realtes_to_State</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.menRISA.Parsing_Driver_Pressure_realtes_to_State</type>
+      <type>com.ibm.lw.marker.Markerdriver_pressure_relates_to_stateOutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.ibm.lw.marker.Markerdriver_pressure_relates_to_stateOutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.Markerdriver_pressure_relates_to_stateOutputType</type>
+      <type>com.menRISA.Epa_dpsir_pressures_all</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.Markerdriver_pressure_relates_to_stateOutputType</type>
+      <type>com.menRISA.Relation_driver_to_pressure</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.Markerdriver_pressure_relates_to_stateOutputType</type>
+      <type>com.menRISA.Epa_dpsir_states_all</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.Markerdriver_pressure_relates_to_stateOutputType</type>
+      <type>com.menRISA.Epa_dpsir_drivers_all</type>
+    </priorityList>
+    
+  </priorityLists>
+</typePriorities>

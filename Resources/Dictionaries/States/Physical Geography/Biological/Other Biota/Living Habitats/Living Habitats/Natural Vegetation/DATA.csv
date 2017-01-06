@@ -21,26 +21,19 @@
 "vegetation types	1101","N"
 "thorny vegetation	1101","N"
 "forest fires	1101","N"
-"central Brazil	1101","N"
 "original vegetation	1101","N"
 "fertile areas	1101","N"
-"late 198s	1101","N"
 "genetic inputs	1101","N"
-"Amazon Basin	1101","N"
 "rain forests	1101","N"
 "Brazil nuts	1101","N"
 "araucaria pine	1101","N"
 "Araucaria angustifolia	1101","N"
 "new lands	1101","N"
 "millions hectares	1101","N"
-"Sul State	1101","N"
 "dry season	1101","N"
 "terra roxa	1101","N"
 "largest areas	1101","N"
-"chemical inputs	1101","N"
-"São Paulo	1101","N"
 "coffee planting	1101","N"
-"Northeast Region	1101","N"
 "low levels	1101","N"
 "considerable distance	1101","N"
 "apparent homogeneity	1101","N"
@@ -58,7 +51,6 @@
 "acidity correction	1101","N"
 "different types	1101","N"
 "largest variety	1101","N"
-"different kinds	1101","N"
 "hardwood trees	1101","N"
 "high temperatures	1101","N"
 "westward movement	1101","N"
@@ -68,14 +60,10 @@
 "extensive expansion	1101","N"
 "rapid growth	1101","N"
 "red earth	1101","N"
-"capital investment	1101","N"
 "rice production	1101","N"
 "soybean farming	1101","N"
 "plant breeding	1101","N"
-"Rio Grande	1101","N"
-"Atlantic coast	1101","N"
 "heavy rainfall	1101","N"
-"considerable controversy	1101","N"
 "drainage conditions	1101","N"
 "pau brasil	1101","N"
 "individual trees	1101","N"
@@ -86,7 +74,6 @@
 "valuable trees	1101","N"
 "agricultural development	1101","N"
 "rainy season	1101","N"
-"rapid deforestation	1101","N"
 "Pará State	1101","N"
 "biological diversity	1101","N"
 "western portion	1101","N"
@@ -98,7 +85,6 @@
 "actual plant species	1101","N"
 "exquisite orchid species	1101","N"
 "extraordinary natural beauty	1101","N"
-"South American country	1101","N"
 "Cerrado region	1101","N"
 "Mangrove Forest	1101","N"
 "Pantanal region	1101","N"
@@ -117,6 +103,10 @@
 "major threat	1101","N"
 "natural source	1101","N"
 "edible fruits	1101","N"
-"human beings	1101","N"
 "rapid development	1101","N"
 "medicinal purposes	1101","N"
+"rainforests	1101rainforest	1101","N"
+"rainforests	1101","N"
+"Rainforest plants	1101","N"
+"tropical rainforests	1101","N"
+"wilderness	1101wildernesses	1101","N"

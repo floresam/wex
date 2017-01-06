@@ -70,7 +70,6 @@
 "natural wetlands	1101","N"
 "usable quantity	1101","N"
 "broad types	1101","N"
-"soil fertility	1101","N"
 "upper surface	1101","N"
 "surface runoff	1101","N"
 "high levels	1101","N"
@@ -78,3 +77,4 @@
 "atmospheric pressure	1101","N"
 "root zone	1101","N"
 "Rainfed agriculture	1101","N"
+"canister	1101canisters	1101","N"

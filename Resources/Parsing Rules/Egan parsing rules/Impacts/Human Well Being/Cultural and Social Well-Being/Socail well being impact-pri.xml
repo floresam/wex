@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typePriorities xmlns="http://uima.apache.org/resourceSpecifier">
+  <priorityLists>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.menRISA.Parse_deforestation_impact_well_being</type>
+      <type>com.ibm.lw.marker.MarkerSocail_well_being_impactOutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.menRISA.Parse_deforestation_impact_well_being</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.ibm.lw.marker.MarkerSocail_well_being_impactOutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.MarkerSocail_well_being_impactOutputType</type>
+      <type>com.menRISA.Epa_dpsir_relations</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.MarkerSocail_well_being_impactOutputType</type>
+      <type>com.menRISA.Ethnicities</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.MarkerSocail_well_being_impactOutputType</type>
+      <type>com.menRISA.Deforestation_Terminology</type>
+    </priorityList>
+    
+  </priorityLists>
+</typePriorities>

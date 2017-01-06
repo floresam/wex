@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typePriorities xmlns="http://uima.apache.org/resourceSpecifier">
+  <priorityLists>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.menRISA.Parse_deforestation_effects</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.menRISA.Parse_deforestation_effects</type>
+      <type>com.ibm.lw.marker.MarkerDeforestation_effectsOutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.ibm.lw.marker.MarkerDeforestation_effectsOutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.MarkerDeforestation_effectsOutputType</type>
+      <type>com.menRISA.Countries</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.MarkerDeforestation_effectsOutputType</type>
+      <type>com.menRISA.Forestry</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.MarkerDeforestation_effectsOutputType</type>
+      <type>com.menRISA.More_DPSIR_actions</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.MarkerDeforestation_effectsOutputType</type>
+      <type>com.menRISA.Climate_change_drivers</type>
+    </priorityList>
+    
+  </priorityLists>
+</typePriorities>

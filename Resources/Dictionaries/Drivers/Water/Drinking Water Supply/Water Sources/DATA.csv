@@ -12,7 +12,7 @@
 "polar ice caps	1101","N"
 "ponds	1101","N"
 "protected wells	1101","N"
-"reservoirs	1101","N"
+"reservoir	1101reservoirs	1101","N"
 "rivers	1101","N"
 "spring supplies	1101","N"
 "standpipes	1101","N"
@@ -38,3 +38,4 @@
 "improved sources of drinking water	1101","N"
 "irrigation canals	1101","N"
 "Meghna rivers	1101","N"
+"Cantareira	1101","N"

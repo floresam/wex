@@ -1,0 +1,13 @@
+"COL1","COL2"
+"dam	1101","N"
+"bridges	1101","N"
+"roads	1101","N"
+"highways	1101","N"
+"expressways	1101","N"
+"levees	1101","N"
+"railway	1101","N"
+"airport	1101airports	1101","N"
+"port	1101ports	1101","N"
+"harbor	1101","N"
+"leaking pipes	1101","V"
+"outdated infrastructure	1101","J"

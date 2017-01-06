@@ -113,7 +113,6 @@
 "underground oil storage	1101","N"
 "usable water storage	1101","N"
 "oil storage tanks	1101","N"
-"water levels	1101","N"
 "water issues	1101","N"
 "water samples	1101","N"
 "contaminated water	1101","N"
@@ -121,7 +120,6 @@
 "precious natural resources	1101","N"
 "important natural resources	1101","N"
 "extent river flow	1101","N"
-"United States	1101","N"
 "Related work concerns	1101","N"
 "direct field crews	1101","N"
 "small swimming pool	1101","N"
@@ -169,3 +167,4 @@
 "topographical features	1101","N"
 "Great Lakes	1101","N"
 "late fall	1101","N"
+"water	1101","N"

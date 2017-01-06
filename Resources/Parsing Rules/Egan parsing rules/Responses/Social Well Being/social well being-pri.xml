@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typePriorities xmlns="http://uima.apache.org/resourceSpecifier">
+  <priorityLists>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.menRISA.Parse_SWB</type>
+      <type>com.ibm.lw.marker.Markersocial_well_beingOutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.Markersocial_well_beingOutputType</type>
+      <type>com.menRISA.Epa_dpsir_impacts_provisioning</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.Markersocial_well_beingOutputType</type>
+      <type>com.menRISA_WSI_Project.Poverty_terms</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.Markersocial_well_beingOutputType</type>
+      <type>com.menRISA.More_DPSIR_actions</type>
+    </priorityList>
+    
+  </priorityLists>
+</typePriorities>

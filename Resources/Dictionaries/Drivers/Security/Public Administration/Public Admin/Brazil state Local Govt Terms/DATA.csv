@@ -34,7 +34,6 @@
 "municipal legislative bodies	1101","N"
 "previously unincorporated territories	1101","N"
 "Federal District government	1101","N"
-"largest city	1101","N"
 "largest municipality	1101","N"
 "large municipalities	1101","N"
 "little authority	1101","N"
@@ -89,7 +88,6 @@
 "SOCIAL ISSUES	1101","N"
 "FOREIGN RELATIONS	1101","N"
 "NATIONAL SYMBOLS	1101","N"
-"largest number	1101","N"
 "DILMA ROUSSEFF	1101","N"
 "AIR TRAVEL	1101","N"
 "new municipalities	1101","N"
@@ -174,3 +172,5 @@
 "poorer states	1101","N"
 "judicial officials	1101","N"
 "Old Republic	1101","N"
+"Government	1101Governments	1101","N"
+"elections	1101","N"

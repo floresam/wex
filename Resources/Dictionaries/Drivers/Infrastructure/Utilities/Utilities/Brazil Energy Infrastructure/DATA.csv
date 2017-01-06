@@ -37,7 +37,6 @@
 "hydroelectric plants	1101","N"
 "nuclear fuels	1101","N"
 "other renewable sources	1101","N"
-"consumption	1101","N"
 "exports	1101","N"
 "imports	1101","N"
 "installed generating capacity	1101","N"
@@ -71,7 +70,6 @@
 "oil producer	1101","N"
 "oil tankers	1101","N"
 "oil companies	1101","N"
-"South America	1101","N"
 "Eletrobrás	1101","N"
 "Petrobras	1101","N"
 "energy efficiency	1101","N"
@@ -129,3 +127,4 @@
 "India	1101","N"
 "BG Group	1101","N"
 "China National Offshore	1101","N"
+"power plants	1101","N"

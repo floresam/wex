@@ -1,12 +1,16 @@
 "COL1","COL2"
 "Eastern Asia	1101","N"
 "Southern Asia	1101","N"
-"world	1101","N"
 "Oceania	1101","N"
 "Caucasus	1101","N"
 "Central Asia	1101","N"
 "Northern Africa	1101","N"
 "Western Asia	1101","N"
-"sub-Saharan Africa	1101","N"
+"sub-Saharan Africa	1101Africa	1101North Africa	1101Northern Africa	1101South Africa	1101Southern Africa	1101","N"
 "Asia	1101","N"
-"Pacific	1101","N"
+"Pacific	1101South Pacific	1101","N"
+"South America	1101","N"
+"North America	1101","N"
+"Middle East	1101","N"
+"Central America	1101","N"
+"Pacific Rim nations	1101","N"

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typePriorities xmlns="http://uima.apache.org/resourceSpecifier">
+  <priorityLists>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.menRISA.Parse_deforestation_impacts</type>
+      <type>com.ibm.lw.marker.Markerdeforestation_pressuresOutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.menRISA.Parse_deforestation_impacts</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.ibm.lw.marker.Markerdeforestation_pressuresOutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.Markerdeforestation_pressuresOutputType</type>
+      <type>com.menRISA.Parse_deforestation_effects</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.Markerdeforestation_pressuresOutputType</type>
+      <type>com.menRISA.Climate_impacts</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.Markerdeforestation_pressuresOutputType</type>
+      <type>com.menRISA.More_DPSIR_actions</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.Markerdeforestation_pressuresOutputType</type>
+      <type>com.menRISA.Brazil_Lumber_Industry</type>
+    </priorityList>
+    
+  </priorityLists>
+</typePriorities>

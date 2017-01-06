@@ -8,3 +8,6 @@
 "store	1101","N"
 "treat	1101","N"
 "deliver	1101","N"
+"piping in water	1101","V"
+"build	1101building	1101builds	1101built	1101","V"
+"road building	1101","N"

@@ -19,7 +19,6 @@
 "treatment plants	1101","N"
 "wastewater systems	1101","N"
 "water storage	1101","N"
-"water supply	1101","N"
 "water system	1101","N"
 "sewage treatment plant 	1101","N"
 "water treatment	1101","N"
@@ -29,10 +28,16 @@
 "reservoirs	1101","N"
 "water wells	1101","N"
 "desalination plants	1101","N"
-"energy production	1101","N"
-"infrastructure	1101","N"
 "drainage system	1101","N"
 "irrigation system	1101","N"
 "sanitation system	1101","N"
-"sewage system	1101","N"
-"water storage	1101","N"
+"improved pumping capacity	1101","N"
+"adding new rivers	1101","N"
+"tapping more ground water	1101tap ground water	1101tap groundwater	1101tapping ground water	1101","V"
+"reforesting	1101","V"
+"reforesting the banks of reservoirs	1101","V"
+"reforest	1101","V"
+"replant	1101","V"
+"recreate ecosystems	1101","V"
+"cut off	1101cutoff	1101","V"
+"drill wells	1101","V"

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typePriorities xmlns="http://uima.apache.org/resourceSpecifier">
+  <priorityLists>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.menRISA.Parsing_response_positive_impact</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.menRISA.Parsing_response_positive_impact</type>
+      <type>com.ibm.lw.marker.Markerresponse_lead_to_positive_impactOutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.ibm.lw.marker.Markerresponse_lead_to_positive_impactOutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.Markerresponse_lead_to_positive_impactOutputType</type>
+      <type>com.menRISA.Epa_dpsir_relations</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.Markerresponse_lead_to_positive_impactOutputType</type>
+      <type>com.menRISA.Soft_water_solutions</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.Markerresponse_lead_to_positive_impactOutputType</type>
+      <type>com.menRISA.Verbs_positive_impacts</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.Markerresponse_lead_to_positive_impactOutputType</type>
+      <type>com.menRISA.Responses</type>
+    </priorityList>
+    
+  </priorityLists>
+</typePriorities>
