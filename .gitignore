@@ -1,7 +1,5 @@
 *.jar
 
-Documents/*
-
 .project
 
 .settings/*
